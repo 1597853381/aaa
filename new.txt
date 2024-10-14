@@ -1,0 +1,4183 @@
+[{
+	"method": "init",
+	"target": "item",
+	"itemId": "{item_id0}",
+	"change": {
+		"typeParent": "normal",
+		"typeChild": "shape_01",
+		"name": "形状1",
+		"themeId": "",
+		"type": "shape",
+		"isFromDataset": false,
+		"theme": {
+			"opacity": 1,
+			"effect": {
+				"shadow_color": "s_14&0.2",
+				"blur_val": 0,
+				"shadow_y_val": 3,
+				"shadow_blur_val": 3,
+				"shadow_show": true,
+				"blur_show": true,
+				"shadow_x_val": 3
+			},
+			"changeBorder": {
+				"a": 1,
+				"width": 0,
+				"c": "s_04_02",
+				"lineType": "solid"
+			},
+			"changeForm": {
+				"data": null,
+				"type": null
+			},
+			"fillColor": {
+				"a": 1,
+				"c": "s_01",
+				"line_grad_r": "0",
+				"line_grad_c": "s_10",
+				"line_grad_a": "1",
+				"line_grad_scope": "100",
+				"type": "pure"
+			},
+			"v": "20181012"
+		},
+		"common": {
+			"locked": false,
+			"open_type": "blank",
+			"zIndex": 649,
+			"link_param": null,
+			"position": "absolute",
+			"link": "",
+			"group": "{item_id19}",
+			"lock_size": true
+		},
+		"v": "20181012",
+		"item_version": 0,
+		"data": {
+			"data": {
+				"rx": 15,
+				"ry": 15
+			},
+			"type": "rect"
+		},
+		"axis": {
+			"auto": {
+				"r_x": 0,
+				"r_y": 0,
+				"h": 586,
+				"r": 0,
+				"w": 740,
+				"y": 5109.33349609375,
+				"x": 972.8333358764648
+			}
+		}
+	}
+}, {
+	"method": "init",
+	"target": "item",
+	"itemId": "{item_id1}",
+	"change": {
+		"typeParent": "title",
+		"typeChild": "title_01",
+		"name": "标题1",
+		"themeId": "",
+		"type": "text",
+		"isFromDataset": false,
+		"theme": {
+			"bd_l": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"marquee": {
+				"duration": 4,
+				"actived": false,
+				"direction": -1
+			},
+			"borderRadius": {
+				"rt": 0,
+				"lt": 0,
+				"lb": 0,
+				"rb": 0
+			},
+			"self": {
+				"letterSpacing": 0,
+				"paddingBottom": 0,
+				"bold": false,
+				"family": "title_2",
+				"paddingLeft": 0,
+				"paddingTop": 0,
+				"underLine": false,
+				"textIndent": 0,
+				"italic": false,
+				"lineHeight": 2.1,
+				"marginTop": 0,
+				"paddingRight": 0,
+				"removeLine": false,
+				"textAlign": "left",
+				"size": 20
+			},
+			"textStroke": {
+				"a": 1,
+				"width": 0,
+				"c": "s_04"
+			},
+			"commonEffect": {
+				"shadow_color": "s_02_02&1",
+				"radius_show": true,
+				"shadow_show": false,
+				"overflow_show": false,
+				"shadow_y_val": 0,
+				"shadow_blur_val": 20,
+				"radius_val": 0,
+				"shadow_x_val": 0
+			},
+			"bd_b": {
+				"a": 1,
+				"width": 1,
+				"c": "s_01_03",
+				"type": "solid",
+				"color": "rgba(214,214,214,1)"
+			},
+			"content": {
+				"a": 1,
+				"c": "s_04"
+			},
+			"bg": {
+				"a": 0,
+				"c": "s_01"
+			},
+			"v": "20230911",
+			"bd_t": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"bd_r": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"textShadow": {
+				"a": 1,
+				"c": "s_02_02",
+				"show": false,
+				"yOffset": 0,
+				"blur": 5,
+				"xOffset": 0
+			}
+		},
+		"common": {
+			"group": "{item_id19}",
+			"open_type": "blank",
+			"locked": false,
+			"zIndex": 650,
+			"link_param": null,
+			"position": "absolute",
+			"link": ""
+		},
+		"v": "20230911",
+		"item_version": 0,
+		"data": "<div style=\"margin-bottom: 0px; margin-top: 0px;\"><span>量表nps</span></div>",
+		"axis": {
+			"auto": {
+				"r_x": 0,
+				"r_y": 0,
+				"h": 43,
+				"r": 0,
+				"w": 680,
+				"y": 5126.33349609375,
+				"x": 1002.8333358764648
+			}
+		}
+	}
+}, {
+	"method": "init",
+	"target": "item",
+	"itemId": "{item_id2}",
+	"change": {
+		"typeParent": "normal",
+		"typeChild": "text_01",
+		"name": "文本1",
+		"themeId": "",
+		"type": "text",
+		"isFromDataset": false,
+		"theme": {
+			"bd_l": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"marquee": {
+				"duration": 4,
+				"actived": false,
+				"direction": -1
+			},
+			"borderRadius": {
+				"rt": 0,
+				"lt": 0,
+				"lb": 0,
+				"rb": 0
+			},
+			"self": {
+				"letterSpacing": 0,
+				"paddingBottom": 0,
+				"bold": false,
+				"family": "text_1",
+				"paddingLeft": 0,
+				"paddingTop": 0,
+				"underLine": false,
+				"textIndent": 0,
+				"italic": false,
+				"lineHeight": 1.3,
+				"marginTop": 0,
+				"paddingRight": 0,
+				"removeLine": false,
+				"textAlign": "justify",
+				"size": 14
+			},
+			"textStroke": {
+				"a": 1,
+				"width": 0,
+				"c": "s_04"
+			},
+			"commonEffect": {
+				"shadow_color": "s_02_02&1",
+				"radius_show": true,
+				"shadow_show": false,
+				"overflow_show": false,
+				"shadow_y_val": 0,
+				"shadow_blur_val": 20,
+				"radius_val": 0,
+				"shadow_x_val": 0
+			},
+			"bd_b": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"content": {
+				"a": 1,
+				"c": "s_03_01"
+			},
+			"bg": {
+				"a": 0,
+				"c": "s_01"
+			},
+			"bd_t": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"bd_r": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"textShadow": {
+				"a": 1,
+				"c": "s_02_02",
+				"show": false,
+				"yOffset": 0,
+				"blur": 5,
+				"xOffset": 0
+			}
+		},
+		"common": {
+			"group": "{item_id19}",
+			"open_type": "blank",
+			"locked": false,
+			"zIndex": 651,
+			"link_param": null,
+			"position": "absolute",
+			"link": ""
+		},
+		"v": "20230911",
+		"item_version": 0,
+		"data": "<div style=\"margin-bottom: 0px;\"><span>(10分表示极有可能，0分表示绝不可能，分值越低表示可能性越底）</span></div>",
+		"axis": {
+			"auto": {
+				"r_x": 0,
+				"r_y": 0,
+				"h": 18,
+				"r": null,
+				"w": 474,
+				"y": 5142.33349609375,
+				"x": 1084.8333358764648
+			}
+		}
+	}
+}, {
+	"method": "init",
+	"target": "item",
+	"itemId": "{item_id3}",
+	"change": {
+		"typeParent": "search",
+		"typeChild": "search_01",
+		"name": "搜索1",
+		"themeId": "",
+		"type": "select",
+		"isFromDataset": false,
+		"dataset": {
+			"replace_default_params_options": {
+				"selectedParams": [],
+				"type": "part",
+				"isClearThirdParams": false
+			},
+			"replace_default_params": true
+		},
+		"theme": {
+			"placeholder": "搜索关键字",
+			"self": {
+				"family": "text_1",
+				"mark": false,
+				"background": {
+					"a": 1,
+					"c": "s_01"
+				},
+				"ellipsis": false,
+				"textAlign": "left",
+				"size": 12
+			},
+			"commonEffect": {
+				"shadow_color": "s_02_02&1",
+				"radius_show": true,
+				"shadow_show": false,
+				"overflow_show": false,
+				"shadow_y_val": 0,
+				"shadow_blur_val": 20,
+				"radius_val": 0,
+				"shadow_x_val": 0
+			},
+			"list": {
+				"lineHeight": 20,
+				"border": {
+					"a": 1,
+					"width": 1,
+					"c": "s_03"
+				},
+				"background": {
+					"a": 1,
+					"c": "s_01"
+				},
+				"height": 200
+			},
+			"font": {
+				"a": 0.8,
+				"c": "s_03_01"
+			},
+			"border": {
+				"a": 1,
+				"tlr": 0,
+				"c": "s_01_03",
+				"brr": 0,
+				"blr": 0,
+				"width": 1,
+				"lineType": "solid",
+				"trr": 0
+			},
+			"icon": {
+				"a": 1,
+				"c": "s_03",
+				"show": true,
+				"size": 16
+			}
+		},
+		"common": {
+			"link_params": null,
+			"locked": false,
+			"zIndex": 652,
+			"link": "",
+			"position": "absolute",
+			"group": "{item_id19}"
+		},
+		"v": "20230629",
+		"item_version": 0,
+		"data": [
+			["名称", "返回值"],
+			["北京", "北京"],
+			["上海", "上海"],
+			["深圳", "深圳"],
+			["广州", "广州"]
+		],
+		"axis": {
+			"auto": {
+				"r_x": 0,
+				"r_y": 0,
+				"h": 30,
+				"r": null,
+				"w": 167,
+				"y": 5308.33349609375,
+				"x": 1515.8333358764648
+			}
+		}
+	}
+}, {
+	"method": "init",
+	"target": "item",
+	"itemId": "{item_id4}",
+	"change": {
+		"typeParent": "normal",
+		"typeChild": "shape_01",
+		"name": "形状28",
+		"themeId": "",
+		"type": "shape",
+		"isFromDataset": false,
+		"theme": {
+			"opacity": 1,
+			"effect": {
+				"shadow_color": "s_03&0.50",
+				"blur_val": 0,
+				"shadow_y_val": 3,
+				"shadow_blur_val": 3,
+				"shadow_show": false,
+				"blur_show": true,
+				"shadow_x_val": 3
+			},
+			"changeBorder": {
+				"a": 1,
+				"width": 0,
+				"c": "s_04_02",
+				"lineType": "solid"
+			},
+			"changeForm": {
+				"type": null,
+				"data": null
+			},
+			"fillColor": {
+				"a": 1,
+				"c": "s_12",
+				"line_grad_r": "0",
+				"line_grad_c": "s_04_01",
+				"line_grad_a": 0.2,
+				"line_grad_scope": "100",
+				"type": "line_grad"
+			},
+			"v": "20181012"
+		},
+		"common": {
+			"group": "{item_id19}",
+			"open_type": "blank",
+			"zIndex": 653,
+			"link_param": null,
+			"position": "absolute",
+			"link": "",
+			"locked": false
+		},
+		"v": "20181012",
+		"item_version": 0,
+		"data": {
+			"data": {
+				"rx": 5,
+				"ry": 5
+			},
+			"type": "rect"
+		},
+		"axis": {
+			"auto": {
+				"r_x": 0,
+				"r_y": 0,
+				"h": 106,
+				"r": 0,
+				"w": 680,
+				"y": 5192.33349609375,
+				"x": 1002.8333358764648
+			}
+		}
+	}
+}, {
+	"method": "init",
+	"target": "item",
+	"itemId": "{item_id5}",
+	"change": {
+		"typeParent": "normal",
+		"typeChild": "text_01",
+		"name": "文本1",
+		"themeId": "",
+		"type": "text",
+		"isFromDataset": false,
+		"theme": {
+			"bd_l": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"textStroke": {
+				"a": 1,
+				"width": 0,
+				"c": "s_04"
+			},
+			"borderRadius": {
+				"rt": 0,
+				"lt": 0,
+				"lb": 0,
+				"rb": 0
+			},
+			"self": {
+				"paddingBottom": 0,
+				"bold": false,
+				"family": "text_1",
+				"paddingLeft": 0,
+				"paddingTop": 0,
+				"textAlign": "justify",
+				"italic": false,
+				"textIndent": 0,
+				"letterSpacing": 0,
+				"lineHeight": 1.3,
+				"marginTop": 0,
+				"paddingRight": 0,
+				"removeLine": false,
+				"underLine": false,
+				"size": 16
+			},
+			"marquee": {
+				"duration": 4,
+				"actived": false,
+				"direction": -1
+			},
+			"commonEffect": {
+				"shadow_color": "s_02_02&1",
+				"radius_show": true,
+				"shadow_show": false,
+				"overflow_show": false,
+				"shadow_y_val": 0,
+				"shadow_blur_val": 20,
+				"radius_val": 0,
+				"shadow_x_val": 0
+			},
+			"bd_b": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"content": {
+				"a": 1,
+				"c": "s_02"
+			},
+			"label_normal": {
+				"unit_fs": 16
+			},
+			"bg": {
+				"a": 0,
+				"c": "s_01"
+			},
+			"bd_t": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"bd_r": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"textShadow": {
+				"a": 1,
+				"c": "s_02_02",
+				"show": false,
+				"yOffset": 0,
+				"blur": 5,
+				"xOffset": 0
+			}
+		},
+		"common": {
+			"locked": false,
+			"open_type": "blank",
+			"zIndex": 654,
+			"link_param": null,
+			"position": "absolute",
+			"link": "",
+			"group": "{item_id19}"
+		},
+		"v": "20230911",
+		"item_version": 0,
+		"data": "填写率",
+		"axis": {
+			"auto": {
+				"r_x": 0,
+				"r_y": 0,
+				"h": 21,
+				"r": null,
+				"w": 115,
+				"y": 5219.33349609375,
+				"x": 1099.8333358764648
+			}
+		}
+	}
+}, {
+	"method": "init",
+	"target": "item",
+	"itemId": "{item_id6}",
+	"change": {
+		"isFromDataset": false,
+		"aggregate_success_time": "",
+		"data": [
+			["", "填写率"],
+			["合计", "100"]
+		],
+		"axis": {
+			"auto": {
+				"r_x": 0,
+				"r_y": 0,
+				"h": 50,
+				"r": null,
+				"w": 122,
+				"y": 5202.33349609375,
+				"x": 1164.8333358764648
+			}
+		},
+		"aggregate_use_status": false,
+		"typeChild": "digital",
+		"name": "单数字矩形图1",
+		"self": {},
+		"typeParent": "treemap",
+		"theme": {
+			"space": {
+				"top": 0,
+				"right": 0,
+				"bottom": 0,
+				"left": 0
+			},
+			"allowDataExportAfterPublishing": false,
+			"item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"shadow_show": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 0,
+				"border_w": 0,
+				"shadow_blur_val": 20,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"shadow_x_val": 0
+			},
+			"fonts": {
+				"family": ["text_1"]
+			},
+			"commonEffect": {
+				"shadow_color": "s_02_02&1",
+				"radius_show": true,
+				"shadow_show": false,
+				"overflow_show": true,
+				"shadow_y_val": 0,
+				"shadow_blur_val": 20,
+				"radius_val": 0,
+				"shadow_x_val": 0
+			},
+			"treemap": {
+				"area_cl_k": "s_01",
+				"area_cl_a": 1
+			},
+			"tooltip": {
+				"bg_grad_scope": 100,
+				"borderWidth": 0,
+				"bg_grad_color_c": "s_01",
+				"show": false,
+				"border_color_a": 0,
+				"showUnit": false,
+				"border_color_c": "s_01",
+				"bg_grad_color_a": 0.7,
+				"bg_grad_fill": false,
+				"fontFamily": "text_1",
+				"bg_grad_radius": 0,
+				"fontSize": 12,
+				"bg_color_c": "s_02_03",
+				"bg_color_a": 0.7,
+				"font_color_c": "s_01",
+				"font_color_a": 1
+			},
+			"visualMap": {
+				"cl_01_k": "s_04",
+				"cl_01_a": 0.4,
+				"cl_02_a": 1,
+				"cl_02_k": "s_05"
+			},
+			"label_normal": {
+				"name_fs": 14,
+				"seq": "one",
+				"unit_pos": "after",
+				"unit_fs": 15,
+				"value_fs": 26,
+				"unit_cl_k": "s_04",
+				"name_ff": "text_1",
+				"value_ff": "text_1",
+				"item_warn": {
+					"rules": [],
+					"open": false
+				},
+				"unit": "%",
+				"lab_cl_a2": 1,
+				"ts_fs": 16,
+				"unit_pd": [0, 0, 3, 0],
+				"lh": 20,
+				"lab_cl_k2": "s_02",
+				"value_cl_a": 1,
+				"swap": true,
+				"lab_cl_a": 1,
+				"value_abs": false,
+				"name_cl_a": 1,
+				"unit_cl_a": 1,
+				"lab_cl_k": "s_02",
+				"name_cl_k": "s_03",
+				"data": ["value", "unit"],
+				"unit_ff": "text_1",
+				"align": "center",
+				"ts_ff": "text_1",
+				"ts_ff2": "text_1",
+				"position": "insideLeft",
+				"value_cl_k": "s_04",
+				"ts_fs2": 16
+			},
+			"colors": {
+				"cl_13_k": "s_04_02",
+				"cl_12_a": 1,
+				"cl_12_k": "s_09_01",
+				"cl_18_a": 1,
+				"cl_13_a": 1,
+				"cl_07_k": "s_04_01",
+				"cl_15_a": 1,
+				"cl_14_k": "s_05_02",
+				"cl_15_k": "s_06_02",
+				"cl_20_k": "s_05_03",
+				"cl_17_k": "s_08_02",
+				"cl_16_a": 1,
+				"cl_16_k": "s_07_02",
+				"cl_17_a": 1,
+				"cl_01_k": "s_04",
+				"cl_10_a": 1,
+				"cl_19_a": 1,
+				"cl_11_k": "s_08_01",
+				"cl_11_a": 1,
+				"cl_10_k": "s_07_01",
+				"cl_19_k": "s_04_03",
+				"cl_01_a": 0,
+				"cl_08_a": 1,
+				"cl_07_a": 1,
+				"cl_08_k": "s_05_01",
+				"cl_14_a": 1,
+				"cl_18_k": "s_09_02",
+				"cl_06_a": 1,
+				"cl_06_k": "s_09",
+				"cl_bg_a": 0,
+				"cl_04_k": "s_07",
+				"cl_05_a": 1,
+				"cl_20_a": 1,
+				"cl_bg_k": "s_01",
+				"cl_05_k": "s_08",
+				"cl_04_a": 1,
+				"cl_09_k": "s_06_01",
+				"cl_03_a": 1,
+				"cl_02_k": "s_05",
+				"cl_09_a": 1,
+				"cl_02_a": 1,
+				"cl_03_k": "s_06"
+			},
+			"grid": {
+				"area": 100
+			},
+			"legend": {
+				"ts_fs": 14,
+				"show": false,
+				"item_h": 14,
+				"legendSelect": [{
+					"txt": "所有系列",
+					"id": "all"
+				}],
+				"item_w": 25,
+				"ts_ff": "text_1",
+				"ts_cl_a": 1,
+				"position": "top-center",
+				"ts_bd": "#ccc",
+				"ts_cl_k": "s_02_04"
+			}
+		},
+		"common": {
+			"zIndex": 655,
+			"position": "absolute",
+			"link": "",
+			"locked": false,
+			"group": "{item_id19}"
+		},
+		"v": "20220707",
+		"item_version": 0,
+		"type": "chart",
+		"aggregate_record_id": "",
+		"aggregate_fail_time": ""
+	}
+}, {
+	"method": "init",
+	"target": "item",
+	"itemId": "{item_id7}",
+	"change": {
+		"typeParent": "normal",
+		"typeChild": "shape_01",
+		"name": "形状5",
+		"themeId": "",
+		"type": "shape",
+		"isFromDataset": false,
+		"theme": {
+			"opacity": 1,
+			"label_normal": {
+				"value_fs": 16
+			},
+			"effect": {
+				"shadow_color": "s_03&0.50",
+				"blur_val": 0,
+				"shadow_y_val": 3,
+				"shadow_blur_val": 3,
+				"shadow_show": false,
+				"blur_show": true,
+				"shadow_x_val": 3
+			},
+			"changeBorder": {
+				"a": 1,
+				"width": 0,
+				"c": "s_04_02",
+				"lineType": "solid"
+			},
+			"changeForm": {
+				"type": null,
+				"data": null
+			},
+			"fillColor": {
+				"a": 0,
+				"c": "s_04",
+				"line_grad_r": 90,
+				"line_grad_c": "s_04",
+				"line_grad_a": 0.15,
+				"line_grad_scope": "100",
+				"type": "line_grad"
+			},
+			"v": "20181012"
+		},
+		"common": {
+			"group": "{item_id19}",
+			"open_type": "blank",
+			"locked": false,
+			"zIndex": 656,
+			"link_param": null,
+			"position": "absolute",
+			"link": "",
+			"lock_size": false
+		},
+		"v": "20181012",
+		"item_version": 0,
+		"data": {
+			"data": {
+				"rx": 5,
+				"ry": 5
+			},
+			"type": "rect"
+		},
+		"axis": {
+			"auto": {
+				"r_x": 0,
+				"r_y": 0,
+				"h": 28,
+				"r": 0,
+				"w": 138,
+				"y": 5216.33349609375,
+				"x": 1442.8333358764648
+			}
+		}
+	}
+}, {
+	"method": "init",
+	"target": "item",
+	"itemId": "{item_id8}",
+	"change": {
+		"typeParent": "normal",
+		"typeChild": "text_01",
+		"name": "文本2",
+		"themeId": "",
+		"type": "text",
+		"isFromDataset": false,
+		"theme": {
+			"bd_l": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"marquee": {
+				"duration": 4,
+				"actived": false,
+				"direction": -1
+			},
+			"borderRadius": {
+				"rt": 0,
+				"lt": 0,
+				"lb": 0,
+				"rb": 0
+			},
+			"self": {
+				"letterSpacing": 0,
+				"paddingBottom": 0,
+				"bold": false,
+				"family": "text_1",
+				"paddingLeft": 0,
+				"paddingTop": 0,
+				"underLine": false,
+				"textIndent": 0,
+				"italic": false,
+				"lineHeight": 1.3,
+				"marginTop": 0,
+				"paddingRight": 0,
+				"removeLine": false,
+				"textAlign": "left",
+				"size": 14
+			},
+			"textStroke": {
+				"a": 1,
+				"width": 0,
+				"c": "s_04"
+			},
+			"commonEffect": {
+				"shadow_color": "s_02_02&1",
+				"radius_show": true,
+				"shadow_show": false,
+				"overflow_show": false,
+				"shadow_y_val": 0,
+				"shadow_blur_val": 20,
+				"radius_val": 0,
+				"shadow_x_val": 0
+			},
+			"bd_b": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"content": {
+				"a": 1,
+				"c": "s_02"
+			},
+			"label_normal": {
+				"unit": "万元"
+			},
+			"bg": {
+				"a": 0,
+				"c": "s_01"
+			},
+			"bd_t": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"bd_r": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"textShadow": {
+				"a": 1,
+				"c": "s_02_02",
+				"show": false,
+				"yOffset": 0,
+				"blur": 5,
+				"xOffset": 0
+			}
+		},
+		"common": {
+			"group": "{item_id19}",
+			"open_type": "blank",
+			"zIndex": 657,
+			"link_param": null,
+			"position": "absolute",
+			"link": "",
+			"locked": false
+		},
+		"v": "20230911",
+		"item_version": 0,
+		"data": "<div style=\"margin-bottom: 0px; margin-top: 0px;\">填写数</div>",
+		"axis": {
+			"auto": {
+				"r_x": 0,
+				"r_y": 0,
+				"h": 18,
+				"r": 0,
+				"w": 59,
+				"y": 5221.33349609375,
+				"x": 1459.8333358764648
+			}
+		}
+	}
+}, {
+	"method": "init",
+	"target": "item",
+	"itemId": "{item_id9}",
+	"change": {
+		"isFromDataset": false,
+		"aggregate_success_time": "",
+		"data": [
+			["", "填写率"],
+			["合计", "2"]
+		],
+		"typeParent": "treemap",
+		"aggregate_use_status": false,
+		"typeChild": "digital",
+		"name": "单数字矩形图1",
+		"self": {},
+		"theme": {
+			"space": {
+				"top": 0,
+				"right": 0,
+				"left": 0,
+				"bottom": 0
+			},
+			"allowDataExportAfterPublishing": false,
+			"item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"shadow_show": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 0,
+				"border_w": 0,
+				"shadow_blur_val": 20,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"shadow_x_val": 0
+			},
+			"fonts": {
+				"family": ["text_1"]
+			},
+			"commonEffect": {
+				"shadow_color": "s_02_02&1",
+				"radius_show": true,
+				"shadow_show": false,
+				"overflow_show": true,
+				"shadow_y_val": 0,
+				"shadow_blur_val": 20,
+				"radius_val": 0,
+				"shadow_x_val": 0
+			},
+			"treemap": {
+				"area_cl_k": "s_01",
+				"area_cl_a": 1
+			},
+			"tooltip": {
+				"bg_grad_scope": 100,
+				"bg_grad_color_c": "s_01",
+				"show": false,
+				"border_color_a": 0,
+				"showUnit": false,
+				"border_color_c": "s_01",
+				"bg_grad_color_a": 0.7,
+				"bg_grad_fill": false,
+				"fontFamily": "text_1",
+				"bg_grad_radius": 0,
+				"fontSize": 12,
+				"borderWidth": 0,
+				"bg_color_a": 0.7,
+				"font_color_a": 1,
+				"font_color_c": "s_01",
+				"bg_color_c": "s_02_03"
+			},
+			"visualMap": {
+				"cl_01_k": "s_04",
+				"cl_01_a": 0.4,
+				"cl_02_a": 1,
+				"cl_02_k": "s_05"
+			},
+			"label_normal": {
+				"name_fs": 14,
+				"ts_fs": 16,
+				"unit_pos": "after",
+				"unit_fs": 14,
+				"value_fs": 16,
+				"value_abs": false,
+				"name_ff": "text_1",
+				"value_ff": "text_1",
+				"item_warn": {
+					"rules": [],
+					"open": false
+				},
+				"unit": "",
+				"lab_cl_a2": 1,
+				"seq": "one",
+				"unit_pd": [0, 0, 0, 0],
+				"lh": 20,
+				"lab_cl_k2": "s_02",
+				"value_cl_a": 1,
+				"swap": true,
+				"lab_cl_a": 1,
+				"unit_cl_k": "s_03",
+				"name_cl_a": 1,
+				"unit_cl_a": 1,
+				"lab_cl_k": "s_02",
+				"name_cl_k": "s_03",
+				"data": ["value", "unit"],
+				"unit_ff": "text_1",
+				"align": "center",
+				"ts_ff": "text_1",
+				"ts_ff2": "text_1",
+				"position": "insideLeft",
+				"value_cl_k": "s_04",
+				"ts_fs2": 16
+			},
+			"colors": {
+				"cl_13_k": "s_04_02",
+				"cl_12_a": 1,
+				"cl_12_k": "s_09_01",
+				"cl_18_a": 1,
+				"cl_13_a": 1,
+				"cl_01_a": 0,
+				"cl_15_a": 1,
+				"cl_14_k": "s_05_02",
+				"cl_15_k": "s_06_02",
+				"cl_06_k": "s_09",
+				"cl_17_k": "s_08_02",
+				"cl_16_a": 1,
+				"cl_16_k": "s_07_02",
+				"cl_17_a": 1,
+				"cl_07_a": 1,
+				"cl_10_a": 1,
+				"cl_19_a": 1,
+				"cl_11_k": "s_08_01",
+				"cl_11_a": 1,
+				"cl_10_k": "s_07_01",
+				"cl_19_k": "s_04_03",
+				"cl_07_k": "s_04_01",
+				"cl_08_a": 1,
+				"cl_01_k": "s_04",
+				"cl_08_k": "s_05_01",
+				"cl_14_a": 1,
+				"cl_06_a": 1,
+				"cl_20_k": "s_05_03",
+				"cl_04_k": "s_07",
+				"cl_bg_a": 0,
+				"cl_18_k": "s_09_02",
+				"cl_05_a": 1,
+				"cl_20_a": 1,
+				"cl_bg_k": "s_01",
+				"cl_05_k": "s_08",
+				"cl_04_a": 1,
+				"cl_09_k": "s_06_01",
+				"cl_03_a": 1,
+				"cl_02_k": "s_05",
+				"cl_09_a": 1,
+				"cl_02_a": 1,
+				"cl_03_k": "s_06"
+			},
+			"grid": {
+				"area": 100
+			},
+			"legend": {
+				"ts_fs": 14,
+				"show": false,
+				"item_h": 14,
+				"legendSelect": [{
+					"txt": "所有系列",
+					"id": "all"
+				}],
+				"item_w": 25,
+				"ts_ff": "text_1",
+				"ts_cl_a": 1,
+				"position": "top-center",
+				"ts_bd": "#ccc",
+				"ts_cl_k": "s_02_04"
+			}
+		},
+		"common": {
+			"zIndex": 658,
+			"position": "absolute",
+			"link": "",
+			"locked": false,
+			"group": "{item_id19}"
+		},
+		"v": "20220707",
+		"item_version": 0,
+		"axis": {
+			"auto": {
+				"r_x": 0,
+				"r_y": 0,
+				"h": 50,
+				"r": null,
+				"w": 122,
+				"y": 5205.33349609375,
+				"x": 1508.8333358764648
+			}
+		},
+		"type": "chart",
+		"aggregate_record_id": "",
+		"aggregate_fail_time": ""
+	}
+}, {
+	"method": "init",
+	"target": "item",
+	"itemId": "{item_id10}",
+	"change": {
+		"typeParent": "normal",
+		"typeChild": "shape_01",
+		"name": "形状30",
+		"themeId": "",
+		"type": "shape",
+		"isFromDataset": false,
+		"theme": {
+			"changeForm": {
+				"type": null,
+				"data": null
+			},
+			"opacity": 1,
+			"fillColor": {
+				"a": 1,
+				"c": "s_04_01",
+				"line_grad_r": "0",
+				"line_grad_c": "s_04_04",
+				"line_grad_a": 1,
+				"line_grad_scope": "100",
+				"type": "line_grad"
+			},
+			"changeBorder": {
+				"a": 1,
+				"width": 0,
+				"c": null,
+				"lineType": "solid"
+			},
+			"effect": {
+				"shadow_color": "s_03&0.50",
+				"blur_val": 0,
+				"shadow_y_val": 3,
+				"shadow_blur_val": 3,
+				"shadow_show": false,
+				"blur_show": true,
+				"shadow_x_val": 3
+			}
+		},
+		"common": {
+			"locked": false,
+			"open_type": "blank",
+			"zIndex": 659,
+			"link_param": null,
+			"position": "absolute",
+			"link": "",
+			"group": "{item_id19}"
+		},
+		"v": "20181012",
+		"item_version": 0,
+		"data": {
+			"data": {
+				"rx": 100,
+				"ry": 100
+			},
+			"type": "ellipse"
+		},
+		"axis": {
+			"auto": {
+				"r_x": 0,
+				"r_y": 0,
+				"h": 41,
+				"r": null,
+				"w": 41,
+				"y": 5209.33349609375,
+				"x": 1040.8333358764648
+			}
+		}
+	}
+}, {
+	"method": "init",
+	"target": "item",
+	"itemId": "{item_id11}",
+	"change": {
+		"typeParent": "normal",
+		"typeChild": "icon_01",
+		"name": "图标1",
+		"themeId": "",
+		"type": "icon",
+		"isFromDataset": false,
+		"theme": {
+			"opacity": 1,
+			"fillColor": {
+				"a": 1,
+				"c": "s_01",
+				"line_grad_r": "0",
+				"line_grad_c": "s_10",
+				"line_grad_a": "1",
+				"line_grad_scope": "100",
+				"type": "pure"
+			},
+			"changeBorder": {
+				"a": 1,
+				"width": 0,
+				"c": null,
+				"lineType": "solid"
+			},
+			"effect": {
+				"shadow_color": "s_03&0.50",
+				"blur_val": 0,
+				"shadow_y_val": 3,
+				"shadow_blur_val": 3,
+				"shadow_show": false,
+				"blur_show": true,
+				"shadow_x_val": 3
+			}
+		},
+		"common": {
+			"group": "{item_id19}",
+			"open_type": "blank",
+			"zIndex": 660,
+			"link_param": null,
+			"position": "absolute",
+			"link": "",
+			"locked": false
+		},
+		"v": "20181012",
+		"item_version": 0,
+		"data": {
+			"size": [1024, 1024],
+			"icon": "<svg  style=\"width: 100%; height: 100%;\" viewBox=\"0 0 1024 1024\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M944.869376 832.441344H197.10976V166.432768c0-13.8752-11.625472-25.124864-25.875456-25.124864s-25.875456 11.249664-25.875456 25.124864v716.259328h799.510528c14.249984 0 25.875456-11.249664 25.875456-25.124864s-11.624448-25.125888-25.875456-25.125888zM312.986624 662.939648h70.125568c19.500032 0 34.875392 15.750144 34.875392 34.875392v70.125568c0 19.500032-15.750144 34.875392-34.875392 34.875392h-70.125568c-19.500032 0-34.875392-15.750144-34.875392-34.875392V697.81504c0-19.125248 15.750144-34.875392 34.875392-34.875392zM523.364352 592.813056h70.125568c19.500032 0 34.875392 15.750144 34.875392 34.875392v140.25216c0 19.500032-15.750144 34.875392-34.875392 34.875392h-70.125568c-19.500032 0-34.875392-15.750144-34.875392-34.875392V627.688448c-0.374784-19.125248 15.37536-34.875392 34.875392-34.875392zM733.367296 487.812096h70.125568c19.500032 0 34.875392 15.750144 34.875392 34.875392v245.25312c0 19.500032-15.750144 34.875392-34.875392 34.875392h-70.125568c-19.500032 0-34.875392-15.750144-34.875392-34.875392V522.687488c0-19.125248 15.750144-34.875392 34.875392-34.875392zM832.36864 205.059072c-13.500416-13.8752-36.000768-13.8752-49.50016 0L584.864768 403.060736c-13.500416 13.500416-36.000768 13.500416-49.50016 0l-49.50016-49.50016-24.75008-24.75008c-13.500416-13.500416-36.000768-13.500416-49.50016 0l-99.376128 99.001344c-13.500416 13.500416-13.500416 36.000768 0 49.50016 13.500416 13.500416 36.000768 13.500416 49.50016 0l49.50016-49.50016c13.500416-13.500416 36.000768-13.500416 49.50016 0l74.251264 74.251264c13.500416 13.500416 36.000768 13.500416 49.50016 0l24.75008-24.75008L832.36864 254.184448c13.499392-13.500416 13.499392-35.625984 0-49.125376z\" /></svg>"
+		},
+		"axis": {
+			"auto": {
+				"r_x": 0,
+				"r_y": 0,
+				"h": 24,
+				"r": null,
+				"w": 24,
+				"y": 5219.33349609375,
+				"x": 1049.8333358764648
+			}
+		}
+	}
+}, {
+	"method": "init",
+	"target": "item",
+	"itemId": "{item_id12}",
+	"change": {
+		"typeParent": "normal",
+		"typeChild": "shape_01",
+		"name": "形状5",
+		"themeId": "",
+		"type": "shape",
+		"isFromDataset": false,
+		"theme": {
+			"opacity": 1,
+			"label_normal": {
+				"value_fs": 16
+			},
+			"effect": {
+				"shadow_color": "s_03&0.50",
+				"blur_val": 0,
+				"shadow_y_val": 3,
+				"shadow_blur_val": 3,
+				"shadow_show": false,
+				"blur_show": true,
+				"shadow_x_val": 3
+			},
+			"changeBorder": {
+				"a": 1,
+				"width": 0,
+				"c": "s_04_02",
+				"lineType": "solid"
+			},
+			"changeForm": {
+				"type": null,
+				"data": null
+			},
+			"fillColor": {
+				"a": 0.39,
+				"c": "s_12",
+				"line_grad_r": 0,
+				"line_grad_c": "s_12",
+				"line_grad_a": 0,
+				"line_grad_scope": "100",
+				"type": "line_grad"
+			},
+			"v": "20181012"
+		},
+		"common": {
+			"locked": false,
+			"open_type": "blank",
+			"group": "{item_id19}",
+			"zIndex": 661,
+			"link_param": null,
+			"position": "absolute",
+			"link": "",
+			"lock_size": false
+		},
+		"v": "20181012",
+		"item_version": 0,
+		"data": {
+			"data": {
+				"rx": 5,
+				"ry": 5
+			},
+			"type": "rect"
+		},
+		"axis": {
+			"auto": {
+				"r_x": 0,
+				"r_y": 0,
+				"h": 37,
+				"r": 0,
+				"w": 132,
+				"y": 5254.33349609375,
+				"x": 1096.8333358764648
+			}
+		}
+	}
+}, {
+	"method": "init",
+	"target": "item",
+	"itemId": "{item_id13}",
+	"change": {
+		"aggregate_use_status": false,
+		"typeChild": "digital",
+		"name": "单数字矩形图1",
+		"type": "chart",
+		"self": {},
+		"typeParent": "treemap",
+		"theme": {
+			"space": {
+				"top": 0,
+				"right": 0,
+				"left": 0,
+				"bottom": 0
+			},
+			"allowDataExportAfterPublishing": false,
+			"item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"shadow_show": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 0,
+				"border_w": 0,
+				"shadow_blur_val": 20,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"shadow_x_val": 0
+			},
+			"fonts": {
+				"family": ["text_1"]
+			},
+			"commonEffect": {
+				"shadow_color": "s_02_02&1",
+				"radius_show": true,
+				"shadow_show": false,
+				"overflow_show": true,
+				"shadow_y_val": 0,
+				"shadow_blur_val": 20,
+				"radius_val": 0,
+				"shadow_x_val": 0
+			},
+			"treemap": {
+				"area_cl_k": "s_01",
+				"area_cl_a": 1
+			},
+			"tooltip": {
+				"bg_grad_scope": 100,
+				"bg_grad_color_c": "s_01",
+				"show": false,
+				"border_color_a": 0,
+				"showUnit": false,
+				"border_color_c": "s_01",
+				"bg_grad_color_a": 0.7,
+				"bg_grad_fill": false,
+				"fontFamily": "text_1",
+				"bg_grad_radius": 0,
+				"fontSize": 12,
+				"borderWidth": 0,
+				"bg_color_a": 0.7,
+				"font_color_a": 1,
+				"font_color_c": "s_01",
+				"bg_color_c": "s_02_03"
+			},
+			"visualMap": {
+				"cl_01_k": "s_04",
+				"cl_01_a": 0.4,
+				"cl_02_a": 1,
+				"cl_02_k": "s_05"
+			},
+			"label_normal": {
+				"name_fs": 14,
+				"ts_fs": 16,
+				"unit_pos": "after",
+				"unit_fs": 14,
+				"value_fs": 22,
+				"value_abs": false,
+				"name_ff": "text_1",
+				"value_ff": "text_1",
+				"item_warn": {
+					"rules": [],
+					"open": false
+				},
+				"unit": "平均数",
+				"lab_cl_a2": 1,
+				"seq": "two",
+				"unit_pd": [0, 0, 1, 0],
+				"lh": 20,
+				"lab_cl_k2": "s_02",
+				"value_cl_a": 1,
+				"swap": false,
+				"lab_cl_a": 1,
+				"unit_cl_k": "s_02",
+				"name_cl_a": 1,
+				"unit_cl_a": 1,
+				"lab_cl_k": "s_02",
+				"name_cl_k": "s_03",
+				"data": ["value", "unit"],
+				"unit_ff": "text_1",
+				"align": "center",
+				"ts_ff": "text_1",
+				"ts_ff2": "text_1",
+				"position": "insideLeft",
+				"value_cl_k": "s_04",
+				"ts_fs2": 16
+			},
+			"colors": {
+				"cl_13_k": "s_04_02",
+				"cl_12_a": 1,
+				"cl_12_k": "s_09_01",
+				"cl_18_a": 1,
+				"cl_13_a": 1,
+				"cl_01_a": 0,
+				"cl_15_a": 1,
+				"cl_14_k": "s_05_02",
+				"cl_15_k": "s_06_02",
+				"cl_06_k": "s_09",
+				"cl_17_k": "s_08_02",
+				"cl_16_a": 1,
+				"cl_16_k": "s_07_02",
+				"cl_17_a": 1,
+				"cl_07_a": 1,
+				"cl_10_a": 1,
+				"cl_19_a": 1,
+				"cl_11_k": "s_08_01",
+				"cl_11_a": 1,
+				"cl_10_k": "s_07_01",
+				"cl_19_k": "s_04_03",
+				"cl_07_k": "s_04_01",
+				"cl_08_a": 1,
+				"cl_01_k": "s_04",
+				"cl_08_k": "s_05_01",
+				"cl_14_a": 1,
+				"cl_06_a": 1,
+				"cl_20_k": "s_05_03",
+				"cl_04_k": "s_07",
+				"cl_bg_a": 0,
+				"cl_18_k": "s_09_02",
+				"cl_05_a": 1,
+				"cl_20_a": 1,
+				"cl_bg_k": "s_01",
+				"cl_05_k": "s_08",
+				"cl_04_a": 1,
+				"cl_09_k": "s_06_01",
+				"cl_03_a": 1,
+				"cl_02_k": "s_05",
+				"cl_09_a": 1,
+				"cl_02_a": 1,
+				"cl_03_k": "s_06"
+			},
+			"grid": {
+				"area": 100
+			},
+			"legend": {
+				"ts_fs": 14,
+				"show": false,
+				"item_h": 14,
+				"legendSelect": [{
+					"txt": "所有系列",
+					"id": "all"
+				}],
+				"item_w": 25,
+				"ts_ff": "text_1",
+				"ts_cl_a": 1,
+				"position": "top-center",
+				"ts_bd": "#ccc",
+				"ts_cl_k": "s_02_04"
+			}
+		},
+		"axis": {
+			"auto": {
+				"r_x": 0,
+				"r_y": 0,
+				"h": 55,
+				"r": null,
+				"w": 139,
+				"y": 5245.33349609375,
+				"x": 1121.8333358764648
+			}
+		},
+		"common": {
+			"zIndex": 662,
+			"position": "absolute",
+			"link": "",
+			"locked": false,
+			"group": "{item_id19}"
+		},
+		"v": "20220707",
+		"item_version": 0,
+		"aggregate_fail_time": "",
+		"data": [
+			["", "广东省"],
+			["合计", "8.5"]
+		],
+		"aggregate_record_id": "",
+		"aggregate_success_time": ""
+	}
+}, {
+	"method": "init",
+	"target": "item",
+	"itemId": "{item_id14}",
+	"change": {
+		"typeParent": "normal",
+		"typeChild": "shape_01",
+		"name": "形状5",
+		"themeId": "",
+		"type": "shape",
+		"isFromDataset": false,
+		"theme": {
+			"opacity": 1,
+			"label_normal": {
+				"value_fs": 16
+			},
+			"effect": {
+				"shadow_color": "s_03&0.50",
+				"blur_val": 0,
+				"shadow_y_val": 3,
+				"shadow_blur_val": 3,
+				"shadow_show": false,
+				"blur_show": true,
+				"shadow_x_val": 3
+			},
+			"changeBorder": {
+				"a": 1,
+				"width": 0,
+				"c": "s_04_02",
+				"lineType": "solid"
+			},
+			"changeForm": {
+				"type": null,
+				"data": null
+			},
+			"fillColor": {
+				"a": 0.39,
+				"c": "s_12",
+				"line_grad_r": 0,
+				"line_grad_c": "s_12",
+				"line_grad_a": 0,
+				"line_grad_scope": "100",
+				"type": "line_grad"
+			},
+			"v": "20181012"
+		},
+		"common": {
+			"group": "{item_id19}",
+			"open_type": "blank",
+			"locked": false,
+			"zIndex": 663,
+			"link_param": null,
+			"position": "absolute",
+			"link": "",
+			"lock_size": false
+		},
+		"v": "20181012",
+		"item_version": 0,
+		"data": {
+			"data": {
+				"rx": 5,
+				"ry": 5
+			},
+			"type": "rect"
+		},
+		"axis": {
+			"auto": {
+				"r_x": 0,
+				"r_y": 0,
+				"h": 37,
+				"r": 0,
+				"w": 132,
+				"y": 5254.33349609375,
+				"x": 1258.8333358764648
+			}
+		}
+	}
+}, {
+	"method": "init",
+	"target": "item",
+	"itemId": "{item_id15}",
+	"change": {
+		"isFromDataset": false,
+		"aggregate_success_time": "",
+		"data": [
+			["", "广东省"],
+			["合计", "8.5"]
+		],
+		"axis": {
+			"auto": {
+				"r_x": 0,
+				"r_y": 0,
+				"h": 55,
+				"r": null,
+				"w": 139,
+				"y": 5245.33349609375,
+				"x": 1283.8333358764648
+			}
+		},
+		"aggregate_use_status": false,
+		"typeChild": "digital",
+		"name": "单数字矩形图1",
+		"self": {},
+		"typeParent": "treemap",
+		"theme": {
+			"space": {
+				"top": 0,
+				"right": 0,
+				"bottom": 0,
+				"left": 0
+			},
+			"allowDataExportAfterPublishing": false,
+			"item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"shadow_show": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 0,
+				"border_w": 0,
+				"shadow_blur_val": 20,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"shadow_x_val": 0
+			},
+			"fonts": {
+				"family": ["text_1"]
+			},
+			"commonEffect": {
+				"shadow_color": "s_02_02&1",
+				"radius_show": true,
+				"shadow_show": false,
+				"overflow_show": true,
+				"shadow_y_val": 0,
+				"shadow_blur_val": 20,
+				"radius_val": 0,
+				"shadow_x_val": 0
+			},
+			"treemap": {
+				"area_cl_k": "s_01",
+				"area_cl_a": 1
+			},
+			"tooltip": {
+				"bg_grad_scope": 100,
+				"bg_grad_color_c": "s_01",
+				"show": false,
+				"border_color_a": 0,
+				"showUnit": false,
+				"border_color_c": "s_01",
+				"bg_grad_color_a": 0.7,
+				"bg_color_c": "s_02_03",
+				"bg_grad_fill": false,
+				"fontFamily": "text_1",
+				"bg_grad_radius": 0,
+				"fontSize": 12,
+				"borderWidth": 0,
+				"bg_color_a": 0.7,
+				"font_color_c": "s_01",
+				"font_color_a": 1
+			},
+			"visualMap": {
+				"cl_01_k": "s_04",
+				"cl_01_a": 0.4,
+				"cl_02_a": 1,
+				"cl_02_k": "s_05"
+			},
+			"label_normal": {
+				"name_fs": 14,
+				"seq": "two",
+				"unit_pos": "after",
+				"unit_fs": 14,
+				"value_fs": 22,
+				"unit_cl_k": "s_02",
+				"name_ff": "text_1",
+				"value_ff": "text_1",
+				"item_warn": {
+					"rules": [],
+					"open": false
+				},
+				"unit": "中位数",
+				"lab_cl_a2": 1,
+				"ts_fs": 16,
+				"unit_pd": [0, 0, 1, 0],
+				"lh": 20,
+				"lab_cl_k2": "s_02",
+				"value_cl_a": 1,
+				"swap": false,
+				"lab_cl_a": 1,
+				"value_abs": false,
+				"name_cl_a": 1,
+				"unit_cl_a": 1,
+				"lab_cl_k": "s_02",
+				"name_cl_k": "s_03",
+				"data": ["value", "unit"],
+				"unit_ff": "text_1",
+				"align": "center",
+				"ts_ff": "text_1",
+				"ts_ff2": "text_1",
+				"position": "insideLeft",
+				"value_cl_k": "s_04",
+				"ts_fs2": 16
+			},
+			"colors": {
+				"cl_13_k": "s_04_02",
+				"cl_12_a": 1,
+				"cl_12_k": "s_09_01",
+				"cl_18_a": 1,
+				"cl_13_a": 1,
+				"cl_07_k": "s_04_01",
+				"cl_15_a": 1,
+				"cl_14_k": "s_05_02",
+				"cl_15_k": "s_06_02",
+				"cl_20_k": "s_05_03",
+				"cl_17_k": "s_08_02",
+				"cl_16_a": 1,
+				"cl_16_k": "s_07_02",
+				"cl_17_a": 1,
+				"cl_01_k": "s_04",
+				"cl_10_a": 1,
+				"cl_19_a": 1,
+				"cl_11_k": "s_08_01",
+				"cl_11_a": 1,
+				"cl_10_k": "s_07_01",
+				"cl_19_k": "s_04_03",
+				"cl_01_a": 0,
+				"cl_08_a": 1,
+				"cl_07_a": 1,
+				"cl_08_k": "s_05_01",
+				"cl_14_a": 1,
+				"cl_18_k": "s_09_02",
+				"cl_06_a": 1,
+				"cl_06_k": "s_09",
+				"cl_bg_a": 0,
+				"cl_04_k": "s_07",
+				"cl_05_a": 1,
+				"cl_20_a": 1,
+				"cl_bg_k": "s_01",
+				"cl_05_k": "s_08",
+				"cl_04_a": 1,
+				"cl_09_k": "s_06_01",
+				"cl_03_a": 1,
+				"cl_02_k": "s_05",
+				"cl_09_a": 1,
+				"cl_02_a": 1,
+				"cl_03_k": "s_06"
+			},
+			"grid": {
+				"area": 100
+			},
+			"legend": {
+				"ts_fs": 14,
+				"show": false,
+				"item_h": 14,
+				"legendSelect": [{
+					"txt": "所有系列",
+					"id": "all"
+				}],
+				"item_w": 25,
+				"ts_ff": "text_1",
+				"ts_cl_a": 1,
+				"position": "top-center",
+				"ts_bd": "#ccc",
+				"ts_cl_k": "s_02_04"
+			}
+		},
+		"common": {
+			"zIndex": 664,
+			"position": "absolute",
+			"link": "",
+			"locked": false,
+			"group": "{item_id19}"
+		},
+		"v": "20220707",
+		"item_version": 0,
+		"type": "chart",
+		"aggregate_record_id": "",
+		"aggregate_fail_time": ""
+	}
+}, {
+	"method": "init",
+	"target": "item",
+	"itemId": "{item_id16}",
+	"change": {
+		"aggregate_use_status": false,
+		"typeChild": "gradient",
+		"aggregate_success_time": "",
+		"name": "柱形图1",
+		"type": "chart",
+		"self": {},
+		"typeParent": "bar",
+		"theme": {
+			"11_label_normal": {
+				"lab_cl_a": 1,
+				"showClassName": false,
+				"ts_fs": 14,
+				"show": true,
+				"lab_cl_k": "s_02",
+				"ts_ff": "text_1",
+				"position": "top",
+				"unit": "%"
+			},
+			"5_item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"cl_bar_bg_k": "s_01",
+				"shadow_show": false,
+				"border_radius_bl": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 1,
+				"border_w": 0,
+				"shadow_x_val": 0,
+				"shadow_blur_val": 20,
+				"cl_bar_bg_a": 0,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"border_radius_lt": false,
+				"border_radius_rt": false,
+				"border_radius_br": false,
+				"item_warn": {
+					"rules": [],
+					"open": false
+				}
+			},
+			"colors": {
+				"16_linear_y": 0.1,
+				"16_linear_x": 0.1,
+				"cl_12_a": 1,
+				"16_linear_z": 0.1,
+				"4_linear_w": 1,
+				"cl_12_k": "s_09_01",
+				"4_linear_z": 0.1,
+				"4_linear_y": 0.1,
+				"4_linear_x": 0.1,
+				"16_linear_w": 1,
+				"14_cl_line_k": "s_06",
+				"cl_16_a": 1,
+				"14_cl_line_a": 1,
+				"cl_02_k": "s_01",
+				"cl_16_k": "s_07_02",
+				"12_linear_y": 0.1,
+				"19_linear_x": 0.1,
+				"13_linear": false,
+				"19_linear_z": 0.1,
+				"cl_10_a": 1,
+				"7_linear": false,
+				"2_linear_w": 1,
+				"2_linear_y": 0.1,
+				"2_linear_x": 0.1,
+				"2_linear_z": 0.1,
+				"cl_10_k": "s_07_01",
+				"19_linear_w": 1,
+				"5_cl_line_a": 1,
+				"17_cl_line_a": 1,
+				"17_linear_z": 0.1,
+				"17_linear_x": 0.1,
+				"17_linear_y": 0.1,
+				"17_cl_line_k": "s_06",
+				"5_cl_line_k": "s_06",
+				"cl_04_k": "s_07",
+				"cl_04_a": 1,
+				"15_cl_line_k": "s_06",
+				"cl_02_a": 0,
+				"cl_13_k": "s_04_02",
+				"cl_14_k": "s_05_02",
+				"9_linear_x": 0.1,
+				"7_linear_w": 1,
+				"9_linear_z": 0.1,
+				"cl_14_a": 1,
+				"7_linear_x": 0.1,
+				"cl_13_a": 1,
+				"13_cl_line_k": "s_06",
+				"2_cl_line_k": "s_06",
+				"2_cl_line_a": 1,
+				"cl_15_k": "s_06_02",
+				"cl_17_k": "s_08_02",
+				"cl_18_k": "s_09_02",
+				"10_linear_x": 0.1,
+				"10_linear_w": 1,
+				"cl_18_a": 1,
+				"15_linear_y": 0.1,
+				"15_linear_z": 0.1,
+				"cl_17_a": 1,
+				"9_cl_line_a": 1,
+				"cl_11_k": "s_08_01",
+				"9_cl_line_k": "s_06",
+				"cl_11_a": 1,
+				"cl_01_a": 1,
+				"cl_08_a": 1,
+				"14_linear": false,
+				"linear": false,
+				"18_cl_line_k": "s_06",
+				"cl_01_k": "s_04",
+				"cl_08_k": "s_05_01",
+				"5_linear": false,
+				"18_cl_line_a": 1,
+				"cl_06_a": 1,
+				"1_linear_w": 1,
+				"13_linear_z": 0.1,
+				"13_linear_x": 0.1,
+				"cl_line_a": 1,
+				"13_linear_w": 1,
+				"cl_06_k": "s_09",
+				"1_linear_x": 0.1,
+				"1_linear_y": 0.1,
+				"1_linear_z": 0.1,
+				"18_linear": false,
+				"cl_bg_a": 0,
+				"11_cl_line_k": "s_06",
+				"10_cl_line_a": 1,
+				"cl_05_a": 1,
+				"9_linear": false,
+				"cl_bg_k": "s_01",
+				"11_cl_line_a": 1,
+				"cl_05_k": "s_08",
+				"12_linear_x": 0.1,
+				"10_cl_line_k": "s_06",
+				"12_linear_z": 0.1,
+				"19_cl_line_a": 1,
+				"15_cl_line_a": 1,
+				"cl_03_a": 1,
+				"6_linear": false,
+				"19_cl_line_k": "s_06",
+				"cl_03_k": "s_06",
+				"13_linear_y": 0.1,
+				"cl_15_a": 1,
+				"1_cl_line_k": "s_06",
+				"3_linear_z": 0.1,
+				"3_linear_x": 0.1,
+				"3_linear_y": 0.1,
+				"3_linear_w": 1,
+				"16_linear": false,
+				"11_linear": false,
+				"9_linear_y": 0.1,
+				"16_cl_line_a": 1,
+				"19_linear_y": 0.1,
+				"16_cl_line_k": "s_06",
+				"17_linear": false,
+				"7_linear_z": 0.1,
+				"cl_19_a": 1,
+				"1_cl_line_a": 1,
+				"6_linear_z": 0.1,
+				"2_linear": false,
+				"cl_19_k": "s_04_03",
+				"cl_07_k": "s_04_01",
+				"9_linear_w": 1,
+				"7_linear_y": 0.1,
+				"15_linear": false,
+				"cl_07_a": 1,
+				"4_linear": false,
+				"12_linear_w": 1,
+				"cl_20_a": 1,
+				"3_cl_line_a": 1,
+				"12_cl_line_k": "s_06",
+				"7_cl_line_k": "s_06",
+				"3_cl_line_k": "s_06",
+				"cl_20_k": "s_05_03",
+				"12_cl_line_a": 1,
+				"7_cl_line_a": 1,
+				"6_cl_line_k": "s_06",
+				"6_cl_line_a": 1,
+				"cl_09_k": "s_06_01",
+				"4_cl_line_a": 1,
+				"3_linear": false,
+				"cl_09_a": 1,
+				"8_linear_w": 1,
+				"13_cl_line_a": 1,
+				"11_linear_w": 1,
+				"11_linear_x": 0.1,
+				"11_linear_y": 0.1,
+				"11_linear_z": 0.1,
+				"8_linear_z": 0.1,
+				"8_linear_y": 0.1,
+				"8_linear_x": 0.1,
+				"19_linear": false,
+				"14_linear_w": 1,
+				"14_linear_z": 0.1,
+				"14_linear_y": 0.1,
+				"14_linear_x": 0.1,
+				"5_linear_x": 0.1,
+				"10_linear": false,
+				"15_linear_x": 0.1,
+				"8_linear": false,
+				"5_linear_z": 0.1,
+				"8_cl_line_k": "s_06",
+				"8_cl_line_a": 1,
+				"1_linear": false,
+				"18_linear_w": 1,
+				"4_cl_line_k": "s_06",
+				"18_linear_z": 0.1,
+				"18_linear_y": 0.1,
+				"18_linear_x": 0.1,
+				"12_linear": false,
+				"6_linear_w": 1,
+				"15_linear_w": 1,
+				"6_linear_y": 0.1,
+				"6_linear_x": 0.1,
+				"10_linear_z": 0.1,
+				"10_linear_y": 0.1,
+				"linear_z": 0.1,
+				"5_linear_y": 0.1,
+				"linear_x": 0.1,
+				"linear_y": 0.1,
+				"cl_line_k": "s_06",
+				"5_linear_w": 1,
+				"linear_w": 1,
+				"17_linear_w": 1
+			},
+			"5_mark_point": {
+				"data": [],
+				"symbol_rotate": 0
+			},
+			"10_label_normal": {
+				"lab_cl_a": 1,
+				"showClassName": false,
+				"ts_fs": 14,
+				"show": true,
+				"lab_cl_k": "s_02",
+				"ts_ff": "text_1",
+				"position": "top",
+				"unit": "%"
+			},
+			"3_mark_point": {
+				"data": [],
+				"symbol_rotate": 0
+			},
+			"4_label_normal": {
+				"lab_cl_a": 1,
+				"showClassName": false,
+				"ts_fs": 14,
+				"show": true,
+				"lab_cl_k": "s_02",
+				"ts_ff": "text_1",
+				"position": "top",
+				"unit": "%"
+			},
+			"11_item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"cl_bar_bg_k": "s_01",
+				"shadow_show": false,
+				"border_radius_bl": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 1,
+				"border_w": 0,
+				"shadow_x_val": 0,
+				"shadow_blur_val": 20,
+				"cl_bar_bg_a": 0,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"border_radius_lt": false,
+				"border_radius_rt": false,
+				"border_radius_br": false,
+				"item_warn": {
+					"rules": [],
+					"open": false
+				}
+			},
+			"18_item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"cl_bar_bg_k": "s_01",
+				"shadow_show": false,
+				"border_radius_bl": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 1,
+				"border_w": 0,
+				"shadow_x_val": 0,
+				"shadow_blur_val": 20,
+				"cl_bar_bg_a": 0,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"border_radius_lt": false,
+				"border_radius_rt": false,
+				"border_radius_br": false,
+				"item_warn": {
+					"rules": [],
+					"open": false
+				}
+			},
+			"5_mark_line": {
+				"data": {},
+				"show": false
+			},
+			"3_item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"cl_bar_bg_k": "s_01",
+				"shadow_show": false,
+				"border_radius_bl": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 1,
+				"border_w": 0,
+				"shadow_x_val": 0,
+				"shadow_blur_val": 20,
+				"cl_bar_bg_a": 0,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"border_radius_lt": false,
+				"border_radius_rt": false,
+				"border_radius_br": false,
+				"item_warn": {
+					"rules": [],
+					"open": false
+				}
+			},
+			"19_label_normal": {
+				"lab_cl_a": 1,
+				"showClassName": false,
+				"ts_fs": 14,
+				"show": true,
+				"lab_cl_k": "s_02",
+				"ts_ff": "text_1",
+				"position": "top",
+				"unit": "%"
+			},
+			"10_mark_point": {
+				"data": [],
+				"symbol_rotate": 0
+			},
+			"17_label_normal": {
+				"lab_cl_a": 1,
+				"showClassName": false,
+				"ts_fs": 14,
+				"show": true,
+				"lab_cl_k": "s_02",
+				"ts_ff": "text_1",
+				"position": "top",
+				"unit": "%"
+			},
+			"6_label_normal": {
+				"lab_cl_a": 1,
+				"showClassName": false,
+				"ts_fs": 14,
+				"show": true,
+				"lab_cl_k": "s_02",
+				"ts_ff": "text_1",
+				"position": "top",
+				"unit": "%"
+			},
+			"grid": {
+				"area": 80
+			},
+			"19_mark_line": {
+				"data": {},
+				"show": false
+			},
+			"split_area_y": {
+				"opacity": 1,
+				"shadow_show": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"area_cl_k1": "s_01",
+				"area_cl_a2": 0.5,
+				"area_cl_k2": "s_03",
+				"shadow_cl_k": "s_04",
+				"shadow_blur_val": 20,
+				"shadow_x_val": 0,
+				"area_cl_a1": 0.5
+			},
+			"split_area_x": {
+				"opacity": 1,
+				"shadow_show": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"area_cl_k1": "s_01",
+				"area_cl_a2": 0.5,
+				"area_cl_k2": "s_03",
+				"shadow_cl_k": "s_04",
+				"shadow_blur_val": 20,
+				"shadow_x_val": 0,
+				"area_cl_a1": 0.5
+			},
+			"13_mark_point": {
+				"data": [],
+				"symbol_rotate": 0
+			},
+			"fonts": {
+				"family": ["text_1"]
+			},
+			"2_item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"cl_bar_bg_k": "s_01",
+				"shadow_show": false,
+				"border_radius_bl": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 1,
+				"border_w": 0,
+				"shadow_x_val": 0,
+				"shadow_blur_val": 20,
+				"cl_bar_bg_a": 0,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"border_radius_lt": false,
+				"border_radius_rt": false,
+				"border_radius_br": false,
+				"item_warn": {
+					"rules": [],
+					"open": false
+				}
+			},
+			"4_mark_line": {
+				"data": {},
+				"show": false
+			},
+			"4_item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"cl_bar_bg_k": "s_01",
+				"shadow_show": false,
+				"border_radius_bl": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 1,
+				"border_w": 0,
+				"shadow_x_val": 0,
+				"shadow_blur_val": 20,
+				"cl_bar_bg_a": 0,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"border_radius_lt": false,
+				"border_radius_rt": false,
+				"border_radius_br": false,
+				"item_warn": {
+					"rules": [],
+					"open": false
+				}
+			},
+			"18_label_normal": {
+				"lab_cl_a": 1,
+				"showClassName": false,
+				"ts_fs": 14,
+				"show": true,
+				"lab_cl_k": "s_02",
+				"ts_ff": "text_1",
+				"position": "top",
+				"unit": "%"
+			},
+			"17_mark_point": {
+				"data": [],
+				"symbol_rotate": 0
+			},
+			"commonEffect": {
+				"shadow_color": "s_02_02&1",
+				"radius_show": true,
+				"shadow_show": false,
+				"overflow_show": true,
+				"shadow_y_val": 0,
+				"shadow_blur_val": 20,
+				"radius_val": 0,
+				"shadow_x_val": 0
+			},
+			"17_mark_line": {
+				"data": {},
+				"show": false
+			},
+			"11_mark_line": {
+				"data": {},
+				"show": false
+			},
+			"16_mark_line": {
+				"data": {},
+				"show": false
+			},
+			"axis_y": {
+				"boundary_gap": false,
+				"show": false,
+				"lab_type": "number",
+				"line_ls_w": 0,
+				"unit": "",
+				"inverse": false,
+				"min": null,
+				"lab_int": 0,
+				"type": "category",
+				"tick_ls_cl_a": 0,
+				"line_ls_cl_k": "s_02_04",
+				"max": null,
+				"line_ls_cl_a": 0.4,
+				"tick_ls_cl_k": "s_02_04",
+				"lab_rot": 0,
+				"slice": 0,
+				"lab_ts_cl_a": 1,
+				"lab_ts_ff": "text_1",
+				"splitNum": 0,
+				"lab_ts_cl_k": "s_02_04",
+				"lab_margin": 8,
+				"lab_ts_fs": 14
+			},
+			"9_mark_line": {
+				"data": {},
+				"show": false
+			},
+			"1_item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_01_03",
+				"cl_bar_bg_k": "s_01",
+				"shadow_show": false,
+				"border_radius_bl": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 1,
+				"border_w": 1,
+				"shadow_x_val": 0,
+				"shadow_blur_val": 20,
+				"cl_bar_bg_a": 0,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"border_radius_lt": false,
+				"border_radius_rt": false,
+				"border_radius_br": false,
+				"item_warn": {
+					"rules": [],
+					"open": false
+				}
+			},
+			"mark_point": {
+				"data": [],
+				"symbol_rotate": 0
+			},
+			"14_item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"cl_bar_bg_k": "s_01",
+				"shadow_show": false,
+				"border_radius_bl": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 1,
+				"border_w": 0,
+				"shadow_x_val": 0,
+				"shadow_blur_val": 20,
+				"cl_bar_bg_a": 0,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"border_radius_lt": false,
+				"border_radius_rt": false,
+				"border_radius_br": false,
+				"item_warn": {
+					"rules": [],
+					"open": false
+				}
+			},
+			"space": {
+				"top": 7,
+				"right": -2,
+				"left": -6,
+				"bottom": 0
+			},
+			"gradient": {
+				"bar_width_show": true,
+				"bar_gap": -100,
+				"bar_category_gap": 30,
+				"bar_width_val": 35
+			},
+			"7_item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"cl_bar_bg_k": "s_01",
+				"shadow_show": false,
+				"border_radius_bl": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 1,
+				"border_w": 0,
+				"shadow_x_val": 0,
+				"shadow_blur_val": 20,
+				"cl_bar_bg_a": 0,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"border_radius_lt": false,
+				"border_radius_rt": false,
+				"border_radius_br": false,
+				"item_warn": {
+					"rules": [],
+					"open": false
+				}
+			},
+			"15_mark_line": {
+				"data": {},
+				"show": false
+			},
+			"tooltip": {
+				"bg_grad_scope": 100,
+				"asSameLegendIcon": false,
+				"bg_grad_color_c": "s_01",
+				"show": false,
+				"border_color_a": 0,
+				"showUnit": false,
+				"border_color_c": "s_01",
+				"bg_grad_color_a": 0.7,
+				"bg_grad_fill": false,
+				"fontFamily": "text_1",
+				"bg_grad_radius": 0,
+				"fontSize": 12,
+				"borderWidth": 0,
+				"graphSize": 12,
+				"bg_color_a": 0.7,
+				"font_color_a": 1,
+				"font_color_c": "s_01",
+				"bg_color_c": "s_02_03"
+			},
+			"9_item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"cl_bar_bg_k": "s_01",
+				"shadow_show": false,
+				"border_radius_bl": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 1,
+				"border_w": 0,
+				"shadow_x_val": 0,
+				"shadow_blur_val": 20,
+				"cl_bar_bg_a": 0,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"border_radius_lt": false,
+				"border_radius_rt": false,
+				"border_radius_br": false,
+				"item_warn": {
+					"rules": [],
+					"open": false
+				}
+			},
+			"10_item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"cl_bar_bg_k": "s_01",
+				"shadow_show": false,
+				"border_radius_bl": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 1,
+				"border_w": 0,
+				"shadow_x_val": 0,
+				"shadow_blur_val": 20,
+				"cl_bar_bg_a": 0,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"border_radius_lt": false,
+				"border_radius_rt": false,
+				"border_radius_br": false,
+				"item_warn": {
+					"rules": [],
+					"open": false
+				}
+			},
+			"8_label_normal": {
+				"lab_cl_a": 1,
+				"showClassName": false,
+				"ts_fs": 14,
+				"show": true,
+				"lab_cl_k": "s_02",
+				"ts_ff": "text_1",
+				"position": "top",
+				"unit": "%"
+			},
+			"12_label_normal": {
+				"lab_cl_a": 1,
+				"showClassName": false,
+				"ts_fs": 14,
+				"show": true,
+				"lab_cl_k": "s_02",
+				"ts_ff": "text_1",
+				"position": "top",
+				"unit": "%"
+			},
+			"8_item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"cl_bar_bg_k": "s_01",
+				"shadow_show": false,
+				"border_radius_bl": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 1,
+				"border_w": 0,
+				"shadow_x_val": 0,
+				"shadow_blur_val": 20,
+				"cl_bar_bg_a": 0,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"border_radius_lt": false,
+				"border_radius_rt": false,
+				"border_radius_br": false,
+				"item_warn": {
+					"rules": [],
+					"open": false
+				}
+			},
+			"18_mark_point": {
+				"data": [],
+				"symbol_rotate": 0
+			},
+			"2_mark_point": {
+				"data": [],
+				"symbol_rotate": 0
+			},
+			"16_mark_point": {
+				"data": [],
+				"symbol_rotate": 0
+			},
+			"19_mark_point": {
+				"data": [],
+				"symbol_rotate": 0
+			},
+			"8_mark_line": {
+				"data": {},
+				"show": false
+			},
+			"1_label_normal": {
+				"lab_cl_a": 1,
+				"showClassName": false,
+				"ts_fs": 14,
+				"show": false,
+				"lab_cl_k": "s_02",
+				"ts_ff": "text_1",
+				"position": "top",
+				"unit": "%"
+			},
+			"legend": {
+				"ts_fs": 14,
+				"show": false,
+				"item_h": 14,
+				"legendSelect": [{
+					"txt": "所有系列",
+					"id": "all"
+				}],
+				"item_w": 25,
+				"ts_ff": "text_1",
+				"ts_cl_a": 1,
+				"position": "top-center",
+				"data": {
+					"label_18": {
+						"fontFamily": "text_1",
+						"fontColor": {
+							"a": 1,
+							"c": "s_02_04"
+						},
+						"fontSize": 14,
+						"icon": {
+							"src": "",
+							"shape": "default",
+							"type": "shape",
+							"paths": []
+						}
+					},
+					"label_19": {
+						"fontFamily": "text_1",
+						"fontColor": {
+							"a": 1,
+							"c": "s_02_04"
+						},
+						"fontSize": 14,
+						"icon": {
+							"src": "",
+							"shape": "default",
+							"type": "shape",
+							"paths": []
+						}
+					},
+					"label_16": {
+						"fontFamily": "text_1",
+						"fontColor": {
+							"a": 1,
+							"c": "s_02_04"
+						},
+						"fontSize": 14,
+						"icon": {
+							"src": "",
+							"shape": "default",
+							"type": "shape",
+							"paths": []
+						}
+					},
+					"label_17": {
+						"fontFamily": "text_1",
+						"fontColor": {
+							"a": 1,
+							"c": "s_02_04"
+						},
+						"fontSize": 14,
+						"icon": {
+							"src": "",
+							"shape": "default",
+							"type": "shape",
+							"paths": []
+						}
+					},
+					"label_14": {
+						"fontFamily": "text_1",
+						"fontColor": {
+							"a": 1,
+							"c": "s_02_04"
+						},
+						"fontSize": 14,
+						"icon": {
+							"src": "",
+							"shape": "default",
+							"type": "shape",
+							"paths": []
+						}
+					},
+					"label_15": {
+						"fontFamily": "text_1",
+						"fontColor": {
+							"a": 1,
+							"c": "s_02_04"
+						},
+						"fontSize": 14,
+						"icon": {
+							"src": "",
+							"shape": "default",
+							"type": "shape",
+							"paths": []
+						}
+					},
+					"label_12": {
+						"fontFamily": "text_1",
+						"fontColor": {
+							"a": 1,
+							"c": "s_02_04"
+						},
+						"fontSize": 14,
+						"icon": {
+							"src": "",
+							"shape": "default",
+							"type": "shape",
+							"paths": []
+						}
+					},
+					"label_13": {
+						"fontFamily": "text_1",
+						"fontColor": {
+							"a": 1,
+							"c": "s_02_04"
+						},
+						"fontSize": 14,
+						"icon": {
+							"src": "",
+							"shape": "default",
+							"type": "shape",
+							"paths": []
+						}
+					},
+					"label_10": {
+						"fontFamily": "text_1",
+						"fontColor": {
+							"a": 1,
+							"c": "s_02_04"
+						},
+						"fontSize": 14,
+						"icon": {
+							"src": "",
+							"shape": "default",
+							"type": "shape",
+							"paths": []
+						}
+					},
+					"label_11": {
+						"fontFamily": "text_1",
+						"fontColor": {
+							"a": 1,
+							"c": "s_02_04"
+						},
+						"fontSize": 14,
+						"icon": {
+							"src": "",
+							"shape": "default",
+							"type": "shape",
+							"paths": []
+						}
+					},
+					"label_4": {
+						"fontFamily": "text_1",
+						"fontColor": {
+							"a": 1,
+							"c": "s_02_04"
+						},
+						"fontSize": 14,
+						"icon": {
+							"src": "",
+							"shape": "default",
+							"type": "shape",
+							"paths": []
+						}
+					},
+					"label_5": {
+						"fontFamily": "text_1",
+						"fontColor": {
+							"a": 1,
+							"c": "s_02_04"
+						},
+						"fontSize": 14,
+						"icon": {
+							"src": "",
+							"shape": "default",
+							"type": "shape",
+							"paths": []
+						}
+					},
+					"label_6": {
+						"fontFamily": "text_1",
+						"fontColor": {
+							"a": 1,
+							"c": "s_02_04"
+						},
+						"fontSize": 14,
+						"icon": {
+							"src": "",
+							"shape": "default",
+							"type": "shape",
+							"paths": []
+						}
+					},
+					"label_7": {
+						"fontFamily": "text_1",
+						"fontColor": {
+							"a": 1,
+							"c": "s_02_04"
+						},
+						"fontSize": 14,
+						"icon": {
+							"src": "",
+							"shape": "default",
+							"type": "shape",
+							"paths": []
+						}
+					},
+					"label_1": {
+						"fontFamily": "text_1",
+						"fontColor": {
+							"a": 1,
+							"c": "s_02_04"
+						},
+						"fontSize": 14,
+						"icon": {
+							"src": "",
+							"shape": "default",
+							"type": "shape",
+							"paths": []
+						}
+					},
+					"label_2": {
+						"fontFamily": "text_1",
+						"fontColor": {
+							"a": 1,
+							"c": "s_02_04"
+						},
+						"fontSize": 14,
+						"icon": {
+							"src": "",
+							"shape": "default",
+							"type": "shape",
+							"paths": []
+						}
+					},
+					"label_3": {
+						"fontFamily": "text_1",
+						"fontColor": {
+							"a": 1,
+							"c": "s_02_04"
+						},
+						"fontSize": 14,
+						"icon": {
+							"src": "",
+							"shape": "default",
+							"type": "shape",
+							"paths": []
+						}
+					},
+					"label_8": {
+						"fontFamily": "text_1",
+						"fontColor": {
+							"a": 1,
+							"c": "s_02_04"
+						},
+						"fontSize": 14,
+						"icon": {
+							"src": "",
+							"shape": "default",
+							"type": "shape",
+							"paths": []
+						}
+					},
+					"label_9": {
+						"fontFamily": "text_1",
+						"fontColor": {
+							"a": 1,
+							"c": "s_02_04"
+						},
+						"fontSize": 14,
+						"icon": {
+							"src": "",
+							"shape": "default",
+							"type": "shape",
+							"paths": []
+						}
+					}
+				},
+				"ts_bd": "#ccc",
+				"ts_cl_k": "s_02_04"
+			},
+			"label_normal": {
+				"lab_cl_a": 1,
+				"showClassName": false,
+				"ts_fs": 14,
+				"show": true,
+				"lab_cl_k": "s_02",
+				"ts_ff": "text_1",
+				"position": "top",
+				"unit": "%"
+			},
+			"14_label_normal": {
+				"lab_cl_a": 1,
+				"showClassName": false,
+				"ts_fs": 14,
+				"show": true,
+				"lab_cl_k": "s_02",
+				"ts_ff": "text_1",
+				"position": "top",
+				"unit": "%"
+			},
+			"18_mark_line": {
+				"data": {},
+				"show": false
+			},
+			"7_mark_line": {
+				"data": {},
+				"show": false
+			},
+			"autoHover": {
+				"duration": 1000,
+				"open": false
+			},
+			"2_label_normal": {
+				"lab_cl_a": 1,
+				"showClassName": false,
+				"ts_fs": 14,
+				"show": true,
+				"lab_cl_k": "s_02",
+				"ts_ff": "text_1",
+				"position": "top",
+				"unit": "%"
+			},
+			"6_mark_line": {
+				"data": {},
+				"show": false
+			},
+			"0_mark_line": {
+				"data": {},
+				"show": false
+			},
+			"3_label_normal": {
+				"lab_cl_a": 1,
+				"showClassName": false,
+				"ts_fs": 14,
+				"show": true,
+				"lab_cl_k": "s_02",
+				"ts_ff": "text_1",
+				"position": "top",
+				"unit": "%"
+			},
+			"5_label_normal": {
+				"lab_cl_a": 1,
+				"showClassName": false,
+				"ts_fs": 14,
+				"show": true,
+				"lab_cl_k": "s_02",
+				"ts_ff": "text_1",
+				"position": "top",
+				"unit": "%"
+			},
+			"9_label_normal": {
+				"lab_cl_a": 1,
+				"showClassName": false,
+				"ts_fs": 14,
+				"show": true,
+				"lab_cl_k": "s_02",
+				"ts_ff": "text_1",
+				"position": "top",
+				"unit": "%"
+			},
+			"14_mark_point": {
+				"data": [],
+				"symbol_rotate": 0
+			},
+			"7_label_normal": {
+				"lab_cl_a": 1,
+				"showClassName": false,
+				"ts_fs": 14,
+				"show": true,
+				"lab_cl_k": "s_02",
+				"ts_ff": "text_1",
+				"position": "top",
+				"unit": "%"
+			},
+			"dataZoom": {
+				"y": {
+					"handleStyle": {
+						"borderColor": {
+							"a": 1,
+							"c": "s_04"
+						}
+					},
+					"fillerColor": {
+						"a": 0.2,
+						"c": "s_04"
+					},
+					"maxValueSpan": 30,
+					"showMaxValueSpan": false,
+					"show": false,
+					"dataBackground": {
+						"lineStyle": {
+							"color": {
+								"a": 0.4,
+								"c": "s_03"
+							}
+						},
+						"areaStyle": {
+							"color": {
+								"a": 0.1,
+								"c": "s_03"
+							}
+						}
+					},
+					"width": 30,
+					"left": 3
+				},
+				"x": {
+					"handleStyle": {
+						"borderColor": {
+							"a": 1,
+							"c": "s_04"
+						}
+					},
+					"fillerColor": {
+						"a": 0.2,
+						"c": "s_04"
+					},
+					"maxValueSpan": 30,
+					"showMaxValueSpan": false,
+					"show": false,
+					"dataBackground": {
+						"lineStyle": {
+							"color": {
+								"a": 0.4,
+								"c": "s_03"
+							}
+						},
+						"areaStyle": {
+							"color": {
+								"a": 0.1,
+								"c": "s_03"
+							}
+						}
+					},
+					"bottom": 0,
+					"width": 30
+				}
+			},
+			"12_item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"cl_bar_bg_k": "s_01",
+				"shadow_show": false,
+				"border_radius_bl": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 1,
+				"border_w": 0,
+				"shadow_x_val": 0,
+				"shadow_blur_val": 20,
+				"cl_bar_bg_a": 0,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"border_radius_lt": false,
+				"border_radius_rt": false,
+				"border_radius_br": false,
+				"item_warn": {
+					"rules": [],
+					"open": false
+				}
+			},
+			"1_mark_point": {
+				"data": [],
+				"symbol_rotate": 0
+			},
+			"15_mark_point": {
+				"data": [],
+				"symbol_rotate": 0
+			},
+			"4_mark_point": {
+				"data": [],
+				"symbol_rotate": 0
+			},
+			"13_label_normal": {
+				"lab_cl_a": 1,
+				"showClassName": false,
+				"ts_fs": 14,
+				"show": true,
+				"lab_cl_k": "s_02",
+				"ts_ff": "text_1",
+				"position": "top",
+				"unit": "%"
+			},
+			"14_mark_line": {
+				"data": {},
+				"show": false
+			},
+			"6_item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"cl_bar_bg_k": "s_01",
+				"shadow_show": false,
+				"border_radius_bl": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 1,
+				"border_w": 0,
+				"shadow_x_val": 0,
+				"shadow_blur_val": 20,
+				"cl_bar_bg_a": 0,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"border_radius_lt": false,
+				"border_radius_rt": false,
+				"border_radius_br": false,
+				"item_warn": {
+					"rules": [],
+					"open": false
+				}
+			},
+			"17_item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"cl_bar_bg_k": "s_01",
+				"shadow_show": false,
+				"border_radius_bl": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 1,
+				"border_w": 0,
+				"shadow_x_val": 0,
+				"shadow_blur_val": 20,
+				"cl_bar_bg_a": 0,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"border_radius_lt": false,
+				"border_radius_rt": false,
+				"border_radius_br": false,
+				"item_warn": {
+					"rules": [],
+					"open": false
+				}
+			},
+			"13_mark_line": {
+				"data": {},
+				"show": false
+			},
+			"11_mark_point": {
+				"data": [],
+				"symbol_rotate": 0
+			},
+			"axis_x": {
+				"lab_ts_cl_a": 1,
+				"boundary_gap": false,
+				"tick_ls_cl_a": 0,
+				"line_ls_cl_k": "s_02_04",
+				"show": true,
+				"lab_margin": 8,
+				"lab_ts_cl_k": "s_03",
+				"lab_ts_ff": "text_1",
+				"line_ls_cl_a": 0.4,
+				"line_ls_w": 0,
+				"lh": 14,
+				"tick_ls_cl_k": "s_02_04",
+				"lab_rot": 0,
+				"lab_display_type": "auto",
+				"lab_ts_fs": 14,
+				"ver_col": false,
+				"lab_int": 0,
+				"type": "value"
+			},
+			"13_item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"cl_bar_bg_k": "s_01",
+				"shadow_show": false,
+				"border_radius_bl": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 1,
+				"border_w": 0,
+				"shadow_x_val": 0,
+				"shadow_blur_val": 20,
+				"cl_bar_bg_a": 0,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"border_radius_lt": false,
+				"border_radius_rt": false,
+				"border_radius_br": false,
+				"item_warn": {
+					"rules": [],
+					"open": false
+				}
+			},
+			"3_mark_line": {
+				"data": {},
+				"show": false
+			},
+			"item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"cl_bar_bg_k": "s_01",
+				"shadow_show": false,
+				"border_radius_bl": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 1,
+				"border_w": 0,
+				"shadow_x_val": 0,
+				"shadow_blur_val": 20,
+				"cl_bar_bg_a": 0,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"border_radius_lt": false,
+				"border_radius_rt": false,
+				"border_radius_br": false,
+				"item_warn": {
+					"rules": [],
+					"open": false
+				}
+			},
+			"7_mark_point": {
+				"data": [],
+				"symbol_rotate": 0
+			},
+			"8_mark_point": {
+				"data": [],
+				"symbol_rotate": 0
+			},
+			"15_item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"cl_bar_bg_k": "s_01",
+				"shadow_show": false,
+				"border_radius_bl": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 1,
+				"border_w": 0,
+				"shadow_x_val": 0,
+				"shadow_blur_val": 20,
+				"cl_bar_bg_a": 0,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"border_radius_lt": false,
+				"border_radius_rt": false,
+				"border_radius_br": false,
+				"item_warn": {
+					"rules": [],
+					"open": false
+				}
+			},
+			"split_line_x": {
+				"show": false,
+				"ls_cl_a": 0.4,
+				"ls_type": "solid",
+				"ls_cl_k": "s_02_04",
+				"ls_w": 1
+			},
+			"split_line_y": {
+				"show": true,
+				"ls_cl_a": 0.4,
+				"ls_type": "solid",
+				"ls_cl_k": "s_02_04",
+				"ls_w": 1
+			},
+			"16_label_normal": {
+				"lab_cl_a": 1,
+				"showClassName": false,
+				"ts_fs": 14,
+				"show": true,
+				"lab_cl_k": "s_02",
+				"ts_ff": "text_1",
+				"position": "top",
+				"unit": "%"
+			},
+			"12_mark_point": {
+				"data": [],
+				"symbol_rotate": 0
+			},
+			"9_mark_point": {
+				"data": [],
+				"symbol_rotate": 0
+			},
+			"10_mark_line": {
+				"data": {},
+				"show": false
+			},
+			"12_mark_line": {
+				"data": {},
+				"show": false
+			},
+			"1_mark_line": {
+				"data": {},
+				"show": false
+			},
+			"allowDataExportAfterPublishing": false,
+			"6_mark_point": {
+				"data": [],
+				"symbol_rotate": 0
+			},
+			"all_item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"cl_bar_bg_k": "s_01",
+				"shadow_show": false,
+				"border_radius_bl": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 1,
+				"border_w": 0,
+				"shadow_x_val": 0,
+				"shadow_blur_val": 20,
+				"cl_bar_bg_a": 0,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"border_radius_lt": false,
+				"border_radius_rt": false,
+				"border_radius_br": false,
+				"item_warn": {
+					"rules": [],
+					"open": false
+				}
+			},
+			"15_label_normal": {
+				"lab_cl_a": 1,
+				"showClassName": false,
+				"ts_fs": 14,
+				"show": true,
+				"lab_cl_k": "s_02",
+				"ts_ff": "text_1",
+				"position": "top",
+				"unit": "%"
+			},
+			"2_mark_line": {
+				"data": {},
+				"show": false
+			},
+			"19_item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"cl_bar_bg_k": "s_01",
+				"shadow_show": false,
+				"border_radius_bl": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 1,
+				"border_w": 0,
+				"shadow_x_val": 0,
+				"shadow_blur_val": 20,
+				"cl_bar_bg_a": 0,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"border_radius_lt": false,
+				"border_radius_rt": false,
+				"border_radius_br": false,
+				"item_warn": {
+					"rules": [],
+					"open": false
+				}
+			},
+			"16_item_normal": {
+				"opacity": 1,
+				"border_cl_k": "s_05",
+				"cl_bar_bg_k": "s_01",
+				"shadow_show": false,
+				"border_radius_bl": false,
+				"show": false,
+				"shadow_y_val": 0,
+				"shadow_cl_a": 1,
+				"border_cl_a": 1,
+				"border_w": 0,
+				"shadow_x_val": 0,
+				"shadow_blur_val": 20,
+				"cl_bar_bg_a": 0,
+				"border_type": "solid",
+				"shadow_cl_k": "s_04",
+				"border_radius_lt": false,
+				"border_radius_rt": false,
+				"border_radius_br": false,
+				"item_warn": {
+					"rules": [],
+					"open": false
+				}
+			}
+		},
+		"common": {
+			"zIndex": 665,
+			"position": "absolute",
+			"link": "",
+			"locked": false,
+			"group": "{item_id19}"
+		},
+		"v": "20231108",
+		"item_version": 0,
+		"aggregate_fail_time": "",
+		"data": [
+			["数量", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+			["业务A", "0", "0", "0", "0", "0", "0", "0", "0", "50", "50", "0"],
+			["业务B", "0", "0", "0", "0", "0", "0", "0", "0", "100", "100", "0"]
+		],
+		"aggregate_record_id": "",
+		"axis": {
+			"auto": {
+				"r_x": 0,
+				"r_y": 0,
+				"h": 300,
+				"r": null,
+				"w": 683,
+				"y": 5348.33349609375,
+				"x": 1001.8333358764648
+			}
+		}
+	}
+}, {
+	"method": "init",
+	"target": "item",
+	"itemId": "{item_id17}",
+	"change": {
+		"typeParent": "normal",
+		"typeChild": "text_01",
+		"name": "文本1",
+		"themeId": "",
+		"type": "text",
+		"isFromDataset": false,
+		"theme": {
+			"bd_l": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"textStroke": {
+				"a": 1,
+				"width": 0,
+				"c": "s_04"
+			},
+			"borderRadius": {
+				"rt": 0,
+				"lt": 0,
+				"lb": 0,
+				"rb": 0
+			},
+			"self": {
+				"paddingBottom": 0,
+				"bold": false,
+				"family": "text_1",
+				"paddingLeft": 0,
+				"paddingTop": 0,
+				"textAlign": "justify",
+				"italic": false,
+				"textIndent": 0,
+				"letterSpacing": 0,
+				"lineHeight": 1.3,
+				"marginTop": 0,
+				"paddingRight": 0,
+				"removeLine": false,
+				"underLine": false,
+				"size": 12
+			},
+			"marquee": {
+				"duration": 4,
+				"actived": false,
+				"direction": -1
+			},
+			"commonEffect": {
+				"shadow_color": "s_02_02&1",
+				"radius_show": true,
+				"shadow_show": false,
+				"overflow_show": false,
+				"shadow_y_val": 0,
+				"shadow_blur_val": 20,
+				"radius_val": 0,
+				"shadow_x_val": 0
+			},
+			"bd_b": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"content": {
+				"a": 1,
+				"c": "s_03_01"
+			},
+			"label_normal": {
+				"unit_fs": 16
+			},
+			"bg": {
+				"a": 0,
+				"c": "s_01"
+			},
+			"bd_t": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"bd_r": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"textShadow": {
+				"a": 1,
+				"c": "s_02_02",
+				"show": false,
+				"yOffset": 0,
+				"blur": 5,
+				"xOffset": 0
+			}
+		},
+		"common": {
+			"locked": false,
+			"open_type": "blank",
+			"zIndex": 666,
+			"link_param": null,
+			"position": "absolute",
+			"link": "",
+			"group": "{item_id19}"
+		},
+		"v": "20230911",
+		"item_version": 0,
+		"data": "<div style=\"margin-bottom: 0px; margin-top: 0px;\"><span>(绝不可能）</span></div>",
+		"axis": {
+			"auto": {
+				"r_x": 0,
+				"r_y": 0,
+				"h": 16,
+				"r": null,
+				"w": 115,
+				"y": 5651.83349609375,
+				"x": 1000.8333358764648
+			}
+		}
+	}
+}, {
+	"method": "init",
+	"target": "item",
+	"itemId": "{item_id18}",
+	"change": {
+		"typeParent": "normal",
+		"typeChild": "text_01",
+		"name": "文本1",
+		"themeId": "",
+		"type": "text",
+		"isFromDataset": false,
+		"theme": {
+			"bd_l": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"textStroke": {
+				"a": 1,
+				"width": 0,
+				"c": "s_04"
+			},
+			"borderRadius": {
+				"rt": 0,
+				"lt": 0,
+				"lb": 0,
+				"rb": 0
+			},
+			"self": {
+				"paddingBottom": 0,
+				"bold": false,
+				"family": "text_1",
+				"paddingLeft": 0,
+				"paddingTop": 0,
+				"textAlign": "right",
+				"italic": false,
+				"textIndent": 0,
+				"letterSpacing": 0,
+				"lineHeight": 1.3,
+				"marginTop": 0,
+				"paddingRight": 0,
+				"removeLine": false,
+				"underLine": false,
+				"size": 12
+			},
+			"marquee": {
+				"duration": 4,
+				"actived": false,
+				"direction": -1
+			},
+			"commonEffect": {
+				"shadow_color": "s_02_02&1",
+				"radius_show": true,
+				"shadow_show": false,
+				"overflow_show": false,
+				"shadow_y_val": 0,
+				"shadow_blur_val": 20,
+				"radius_val": 0,
+				"shadow_x_val": 0
+			},
+			"bd_b": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"content": {
+				"a": 1,
+				"c": "s_03_01"
+			},
+			"label_normal": {
+				"unit_fs": 16
+			},
+			"bg": {
+				"a": 0,
+				"c": "s_01"
+			},
+			"bd_t": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"bd_r": {
+				"a": 1,
+				"width": 0,
+				"c": "s_02",
+				"type": "solid"
+			},
+			"textShadow": {
+				"a": 1,
+				"c": "s_02_02",
+				"show": false,
+				"yOffset": 0,
+				"blur": 5,
+				"xOffset": 0
+			}
+		},
+		"common": {
+			"group": "{item_id19}",
+			"open_type": "blank",
+			"zIndex": 667,
+			"link_param": null,
+			"position": "absolute",
+			"link": "",
+			"locked": false
+		},
+		"v": "20230911",
+		"item_version": 0,
+		"data": "<div style=\"margin-bottom: 0px; margin-top: 0px;\"><span>(极有可能）</span></div>",
+		"axis": {
+			"auto": {
+				"r_x": 0,
+				"r_y": 0,
+				"h": 16,
+				"r": null,
+				"w": 115,
+				"y": 5651.83349609375,
+				"x": 1574.8333358764648
+			}
+		}
+	}
+}, {
+	"method": "init",
+	"target": "item",
+	"itemId": "{item_id19}",
+	"change": {
+		"typeParent": "normal",
+		"typeChild": "group_01",
+		"name": "组合3",
+		"themeId": "",
+		"type": "group",
+		"theme": {},
+		"common": {
+			"group": null,
+			"open_type": "blank",
+			"locked": false,
+			"zIndex": 668,
+			"link_param": null,
+			"position": "absolute",
+			"link": ""
+		},
+		"v": "20181012",
+		"item_version": 0,
+		"data": {
+			"{item_id18}": {
+				"common": {
+					"locked": false,
+					"open_type": "blank",
+					"zIndex": 412,
+					"link_param": null,
+					"position": "absolute",
+					"link": "",
+					"group": null
+				},
+				"axis": {
+					"auto": {
+						"r_x": 0,
+						"r_y": 0,
+						"h": 16,
+						"r": 0,
+						"w": 115,
+						"y": 542.5,
+						"x": 602
+					}
+				}
+			},
+			"{item_id2}": {
+				"common": {
+					"locked": false,
+					"open_type": "blank",
+					"group": null,
+					"zIndex": 223,
+					"link_param": null,
+					"position": "absolute",
+					"link": ""
+				},
+				"axis": {
+					"auto": {
+						"r_x": 0,
+						"r_y": 0,
+						"h": 18,
+						"r": 0,
+						"w": 474,
+						"y": 33,
+						"x": 112
+					}
+				}
+			},
+			"{item_id17}": {
+				"common": {
+					"group": null,
+					"open_type": "blank",
+					"zIndex": 410,
+					"link_param": null,
+					"position": "absolute",
+					"link": "",
+					"locked": false
+				},
+				"axis": {
+					"auto": {
+						"r_x": 0,
+						"r_y": 0,
+						"h": 16,
+						"r": 0,
+						"w": 115,
+						"y": 542.5,
+						"x": 28
+					}
+				}
+			},
+			"{item_id13}": {
+				"common": {
+					"zIndex": 383,
+					"position": "absolute",
+					"link": "",
+					"locked": false,
+					"group": null
+				},
+				"axis": {
+					"auto": {
+						"r_x": 0,
+						"r_y": 0,
+						"h": 55,
+						"r": 0,
+						"w": 139,
+						"y": 136,
+						"x": 149
+					}
+				}
+			},
+			"{item_id11}": {
+				"common": {
+					"locked": false,
+					"open_type": "blank",
+					"zIndex": 379,
+					"link_param": null,
+					"position": "absolute",
+					"link": "",
+					"group": null
+				},
+				"axis": {
+					"auto": {
+						"r_x": 0,
+						"r_y": 0,
+						"h": 24,
+						"r": 0,
+						"w": 24,
+						"y": 110,
+						"x": 77
+					}
+				}
+			},
+			"{item_id12}": {
+				"common": {
+					"group": null,
+					"open_type": "blank",
+					"locked": false,
+					"zIndex": 382,
+					"link_param": null,
+					"position": "absolute",
+					"link": "",
+					"lock_size": false
+				},
+				"axis": {
+					"auto": {
+						"r_x": 0,
+						"r_y": 0,
+						"h": 37,
+						"r": 0,
+						"w": 132,
+						"y": 145,
+						"x": 124
+					}
+				}
+			},
+			"{item_id14}": {
+				"common": {
+					"locked": false,
+					"open_type": "blank",
+					"group": null,
+					"zIndex": 385,
+					"link_param": null,
+					"position": "absolute",
+					"link": "",
+					"lock_size": false
+				},
+				"axis": {
+					"auto": {
+						"r_x": 0,
+						"r_y": 0,
+						"h": 37,
+						"r": 0,
+						"w": 132,
+						"y": 145,
+						"x": 286
+					}
+				}
+			},
+			"{item_id8}": {
+				"common": {
+					"locked": false,
+					"open_type": "blank",
+					"zIndex": 376,
+					"link_param": null,
+					"position": "absolute",
+					"link": "",
+					"group": null
+				},
+				"axis": {
+					"auto": {
+						"r_x": 0,
+						"r_y": 0,
+						"h": 18,
+						"r": 0,
+						"w": 59,
+						"y": 112,
+						"x": 487
+					}
+				}
+			},
+			"{item_id9}": {
+				"common": {
+					"zIndex": 377,
+					"position": "absolute",
+					"link": "",
+					"locked": false,
+					"group": null
+				},
+				"axis": {
+					"auto": {
+						"r_x": 0,
+						"r_y": 0,
+						"h": 50,
+						"r": 0,
+						"w": 122,
+						"y": 96,
+						"x": 536
+					}
+				}
+			},
+			"{item_id10}": {
+				"common": {
+					"group": null,
+					"open_type": "blank",
+					"zIndex": 378,
+					"link_param": null,
+					"position": "absolute",
+					"link": "",
+					"locked": false
+				},
+				"axis": {
+					"auto": {
+						"r_x": 0,
+						"r_y": 0,
+						"h": 41,
+						"r": 0,
+						"w": 41,
+						"y": 100,
+						"x": 68
+					}
+				}
+			},
+			"{item_id0}": {
+				"common": {
+					"group": null,
+					"open_type": "blank",
+					"zIndex": -18,
+					"link_param": null,
+					"position": "absolute",
+					"link": "",
+					"locked": false,
+					"lock_size": true
+				},
+				"axis": {
+					"auto": {
+						"r_x": 0,
+						"r_y": 0,
+						"h": 586,
+						"r": 0,
+						"w": 740,
+						"y": 0,
+						"x": 0
+					}
+				}
+			},
+			"{item_id6}": {
+				"common": {
+					"zIndex": 374,
+					"position": "absolute",
+					"link": "",
+					"locked": false,
+					"group": null
+				},
+				"axis": {
+					"auto": {
+						"r_x": 0,
+						"r_y": 0,
+						"h": 50,
+						"r": 0,
+						"w": 122,
+						"y": 93,
+						"x": 192
+					}
+				}
+			},
+			"{item_id7}": {
+				"common": {
+					"locked": false,
+					"open_type": "blank",
+					"group": null,
+					"zIndex": 375,
+					"link_param": null,
+					"position": "absolute",
+					"link": "",
+					"lock_size": false
+				},
+				"axis": {
+					"auto": {
+						"r_x": 0,
+						"r_y": 0,
+						"h": 28,
+						"r": 0,
+						"w": 138,
+						"y": 107,
+						"x": 470
+					}
+				}
+			},
+			"{item_id3}": {
+				"common": {
+					"link_params": null,
+					"locked": false,
+					"zIndex": 370,
+					"link": "",
+					"position": "absolute",
+					"group": null
+				},
+				"axis": {
+					"auto": {
+						"r_x": 0,
+						"r_y": 0,
+						"h": 30,
+						"r": 0,
+						"w": 167,
+						"y": 199,
+						"x": 543
+					}
+				}
+			},
+			"{item_id4}": {
+				"common": {
+					"locked": false,
+					"open_type": "blank",
+					"zIndex": 371,
+					"link_param": null,
+					"position": "absolute",
+					"link": "",
+					"group": null
+				},
+				"axis": {
+					"auto": {
+						"r_x": 0,
+						"r_y": 0,
+						"h": 106,
+						"r": 0,
+						"w": 680,
+						"y": 83,
+						"x": 30
+					}
+				}
+			},
+			"{item_id1}": {
+				"common": {
+					"locked": false,
+					"open_type": "blank",
+					"group": null,
+					"zIndex": -17,
+					"link_param": null,
+					"position": "absolute",
+					"link": ""
+				},
+				"axis": {
+					"auto": {
+						"r_x": 0,
+						"r_y": 0,
+						"h": 43,
+						"r": 0,
+						"w": 680,
+						"y": 17,
+						"x": 30
+					}
+				}
+			},
+			"{item_id5}": {
+				"common": {
+					"group": null,
+					"open_type": "blank",
+					"zIndex": 373,
+					"link_param": null,
+					"position": "absolute",
+					"link": "",
+					"locked": false
+				},
+				"axis": {
+					"auto": {
+						"r_x": 0,
+						"r_y": 0,
+						"h": 21,
+						"r": 0,
+						"w": 115,
+						"y": 110,
+						"x": 127
+					}
+				}
+			},
+			"{item_id16}": {
+				"common": {
+					"zIndex": 387,
+					"position": "absolute",
+					"link": "",
+					"locked": false,
+					"group": null
+				},
+				"axis": {
+					"auto": {
+						"r_x": 0,
+						"r_y": 0,
+						"h": 300,
+						"r": 0,
+						"w": 683,
+						"y": 239,
+						"x": 29
+					}
+				}
+			},
+			"{item_id15}": {
+				"common": {
+					"zIndex": 386,
+					"position": "absolute",
+					"link": "",
+					"locked": false,
+					"group": null
+				},
+				"axis": {
+					"auto": {
+						"r_x": 0,
+						"r_y": 0,
+						"h": 55,
+						"r": 0,
+						"w": 139,
+						"y": 136,
+						"x": 311
+					}
+				}
+			}
+		},
+		"axis": {
+			"auto": {
+				"y": 5109.33349609375,
+				"x": 972.8333358764648,
+				"r": 0,
+				"w": 740,
+				"h": 586
+			}
+		}
+	}
+}]
